@@ -108,6 +108,8 @@ This study contributes:
 │
 ├── data/
 │   ├── dataset_gold_v1_2_frozen.json
+│   ├── human_annotator_1.csv
+│   ├── human_annotator_2.csv
 │   └── README_data.md
 │
 ├── prompts/
