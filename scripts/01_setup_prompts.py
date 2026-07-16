@@ -1,6 +1,6 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║  SBES 2026 — Deductive Coding of CI Claims                   ║
+║  SBQS 2026 — Deductive Coding of CI Claims                   ║
 ║  FILE 1 of 7: setup_prompts.py                               ║
 ║  PURPOSE: Create the 5 prompt files on Google Drive          ║
 ║  RUN ONCE before any experiments                             ║
@@ -22,7 +22,7 @@ Usage in Colab:
 
 from pathlib import Path
 
-BASE_DIR = Path(os.getenv("SBES_BASE_DIR", Path(__file__).parent.parent))
+BASE_DIR = Path(os.getenv("SBQS_BASE_DIR", Path(__file__).parent.parent))
 PROMPTS_DIR = BASE_DIR / "prompts"
 PROMPTS_DIR.mkdir(parents=True, exist_ok=True)
 

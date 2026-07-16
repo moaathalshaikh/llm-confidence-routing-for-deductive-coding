@@ -1,6 +1,6 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║  SBES 2026 — Deductive Coding of CI Claims                   ║
+║  SBQS 2026 — Deductive Coding of CI Claims                   ║
 ║  FILE 3b of 8: run_openai.py                                 ║
 ║  MODEL: GPT-4o Mini (OpenAI)                                 ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -24,7 +24,7 @@ SLEEP_BETWEEN   = 1.5
 COST_PER_1K_IN  = 0.00015
 COST_PER_1K_OUT = 0.00060
 
-BASE_DIR = Path(os.getenv("SBES_BASE_DIR", Path(__file__).parent.parent))
+BASE_DIR = Path(os.getenv("SBQS_BASE_DIR", Path(__file__).parent.parent))
 DATA_PATH   = BASE_DIR / "data"    / "02_dataset_gold_CI.json"
 PROMPTS_DIR = BASE_DIR / "prompts"
 RESULTS_DIR = BASE_DIR / "results" / MODEL_SHORT

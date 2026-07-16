@@ -1,8 +1,8 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║  SBES 2026 — Deductive Coding of CI Claims                   ║
-║  FILE 4 of 7: run_deepseek.py                                  ║
-║  MODEL: DeepSeek Chat                                     ║
+║  SBQS 2026 — Deductive Coding of CI Claims                   ║
+║  FILE 4 of 7: run_deepseek.py                                ║
+║  MODEL: DeepSeek Chat                                        ║
 ╚══════════════════════════════════════════════════════════════╝
 
 Usage:
@@ -33,7 +33,7 @@ COST_PER_1K_IN  = 0.00014
 COST_PER_1K_OUT = 0.00028
 API_URL         = "https://api.deepseek.com/v1/chat/completions"
 
-BASE_DIR = Path(os.getenv("SBES_BASE_DIR", Path(__file__).parent.parent))
+BASE_DIR = Path(os.getenv("SBQS_BASE_DIR", Path(__file__).parent.parent))
 DATA_PATH   = BASE_DIR / "data"   / "02_dataset_gold_CI.json"
 PROMPTS_DIR = BASE_DIR / "prompts"
 RESULTS_DIR = BASE_DIR / "results" / MODEL_SHORT

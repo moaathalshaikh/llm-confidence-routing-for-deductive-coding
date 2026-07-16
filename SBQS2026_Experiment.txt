@@ -1,0 +1,253 @@
+{
+ "nbformat": 4,
+ "nbformat_minor": 0,
+ "metadata": {
+  "colab": {
+   "name": "SBQS2026_Experiment.ipynb",
+   "provenance": []
+  },
+  "kernelspec": {
+   "name": "python3",
+   "display_name": "Python 3"
+  }
+ },
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# SBQS 2026 — Deductive Coding of CI Claims\n",
+    "## Context Granularity Experiment: L1–L5\n",
+    "\n",
+    "**Research Question:**  \n",
+    "How does context granularity (bibliographic metadata) affect LLM performance in deductive coding of SE evidence claims?\n",
+    "\n",
+    "| Level | Name | Content |\n",
+    "|-------|------|---------|\n",
+    "| L1 | Claim Only | claim text only |\n",
+    "| L2 | Source Context | claim + study title |\n",
+    "| L3 | Methodological Context | claim + title + research method |\n",
+    "| L4 | Empirical Context | claim + title + variables |\n",
+    "| L5 | Full Context | claim + title + method + variables |\n",
+    "\n",
+    "**Models:** Claude Haiku 4.5 · DeepSeek Chat · GPT-4o Mini  \n",
+    "**Dataset:** 113 single-label CI claims with human gold standard"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Step 0 — Mount Google Drive & Setup"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "metadata": {},
+   "source": [
+    "from google.colab import drive\n",
+    "drive.mount('/content/drive')\n",
+    "\n",
+    "import os\n",
+    "PROJECT_DIR = '/content/drive/MyDrive/Colab Notebooks/SBQS_2026'\n",
+    "os.makedirs(f'{PROJECT_DIR}/data',    exist_ok=True)\n",
+    "os.makedirs(f'{PROJECT_DIR}/prompts', exist_ok=True)\n",
+    "os.makedirs(f'{PROJECT_DIR}/results', exist_ok=True)\n",
+    "os.makedirs(f'{PROJECT_DIR}/analysis',exist_ok=True)\n",
+    "print('✅ Folders ready')"
+   ],
+   "execution_count": null,
+   "outputs": []
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Step 1 — Copy project files to Drive"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "metadata": {},
+   "source": [
+    "# Upload the 6 project files to Colab first (Files panel on left),\n",
+    "# then run this cell to copy them to the right locations.\n",
+    "\n",
+    "import shutil\n",
+    "\n",
+    "# Copy dataset\n",
+    "shutil.copy('02_dataset_gold_CI.json', f'{PROJECT_DIR}/data/02_dataset_gold_CI.json')\n",
+    "\n",
+    "# Copy scripts\n",
+    "for f in ['01_setup_prompts.py','03_run_claude.py','04_run_deepseek.py',\n",
+    "          '07_analyze_results.py']:\n",
+    "    shutil.copy(f, f'{PROJECT_DIR}/{f}')\n",
+    "\n",
+    "print('✅ All files copied to Drive')"
+   ],
+   "execution_count": null,
+   "outputs": []
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Step 2 — Install dependencies"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "metadata": {},
+   "source": [
+    "!pip install anthropic openai scikit-learn matplotlib seaborn -q\nprint('✅ Dependencies installed')"
+   ],
+   "execution_count": null,
+   "outputs": []
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Step 3 — Set API keys"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "metadata": {},
+   "source": [
+    "import os\n",
+    "\n",
+    "# Option A: set directly (not recommended for shared notebooks)\n",
+    "# os.environ['ANTHROPIC_API_KEY'] = 'sk-ant-...'\n",
+    "# os.environ['DEEPSEEK_API_KEY']  = 'sk-...'\n",
+    "# os.environ['OPENAI_API_KEY']     = 'sk-...'\n",
+    "\n",
+    "# Option B: use Colab Secrets (recommended)\n",
+    "from google.colab import userdata\n",
+    "os.environ['ANTHROPIC_API_KEY'] = userdata.get('ANTHROPIC_API_KEY')\n",
+    "os.environ['DEEPSEEK_API_KEY']  = userdata.get('DEEPSEEK_API_KEY')\n",
+    "os.environ['OPENAI_API_KEY']    = userdata.get('OPENAI_API_KEY')\n",
+    "\n",
+    "print('✅ API keys set')"
+   ],
+   "execution_count": null,
+   "outputs": []
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Step 4 — Create prompt files (run ONCE)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "metadata": {},
+   "source": [
+    "%cd {PROJECT_DIR}\n",
+    "!python 01_setup_prompts.py"
+   ],
+   "execution_count": null,
+   "outputs": []
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Step 5 — Run experiments"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "metadata": {},
+   "source": [
+    "%cd {PROJECT_DIR}\n",
+    "\n",
+    "RUN_ID = 1  # change for each new run\n",
+    "\n",
+    "# Claude Haiku — all 5 levels\n",
+    "!python 03_run_claude.py --run_id {RUN_ID}\n",
+    "\n",
+    "# DeepSeek Chat — all 5 levels\n",
+    "!python 04_run_deepseek.py --run_id {RUN_ID}\n",
+    "\n",
+    "# GPT-4o Mini (OpenAI) — all 5 levels\n",
+    "!python 05_run_openai.py --run_id {RUN_ID}"
+   ],
+   "execution_count": null,
+   "outputs": []
+  },
+  {
+   "cell_type": "code",
+   "metadata": {},
+   "source": [
+    "# Optional: run a single level for testing\n",
+    "# !python 03_run_claude.py --run_id 1 --level L1"
+   ],
+   "execution_count": null,
+   "outputs": []
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Step 6 — Analyze results"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "metadata": {},
+   "source": [
+    "%cd {PROJECT_DIR}\n",
+    "!python 07_analyze_results.py"
+   ],
+   "execution_count": null,
+   "outputs": []
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Step 7 — Preview results"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "metadata": {},
+   "source": [
+    "import pandas as pd\n",
+    "\n",
+    "analysis_dir = f'{PROJECT_DIR}/analysis'\n",
+    "\n",
+    "print('=== Accuracy by Model × Level ===')\n",
+    "metrics = pd.read_csv(f'{analysis_dir}/metrics_by_model_level.csv')\n",
+    "code_metrics = metrics[metrics['task']=='code']\n",
+    "pivot = code_metrics.groupby(['model','level'])['accuracy'].mean().unstack('level').round(3)\n",
+    "print(pivot)\n",
+    "\n",
+    "print('\\n=== Cohen Kappa (Model vs Gold) ===')\n",
+    "kappa = pd.read_csv(f'{analysis_dir}/kappa_analysis.csv')\n",
+    "mvg = kappa[(kappa['kappa_type']=='model_vs_gold') & (kappa['task']=='code')]\n",
+    "pivot_k = mvg.groupby(['model_a','level'])['kappa'].mean().unstack('level').round(3)\n",
+    "print(pivot_k)"
+   ],
+   "execution_count": null,
+   "outputs": []
+  },
+  {
+   "cell_type": "code",
+   "metadata": {},
+   "source": [
+    "# Show figures\n",
+    "from IPython.display import Image, display\n",
+    "import glob\n",
+    "\n",
+    "for fig in sorted(glob.glob(f'{analysis_dir}/figures/*.png')):\n",
+    "    print(fig)\n",
+    "    display(Image(fig))"
+   ],
+   "execution_count": null,
+   "outputs": []
+  }
+ ]
+}

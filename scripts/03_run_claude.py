@@ -1,6 +1,6 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║  SBES 2026 — Deductive Coding of CI Claims                   ║
+║  SBQS 2026 — Deductive Coding of CI Claims                   ║
 ║  FILE 3 of 7: run_claude.py                                  ║
 ║  MODEL: Claude Haiku 4.5                                     ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -32,7 +32,7 @@ SLEEP_BETWEEN   = 1.5   # seconds between requests
 COST_PER_1K_IN  = 0.00080
 COST_PER_1K_OUT = 0.00400
 
-BASE_DIR = Path(os.getenv("SBES_BASE_DIR", Path(__file__).parent.parent))
+BASE_DIR = Path(os.getenv("SBQS_BASE_DIR", Path(__file__).parent.parent))
 DATA_PATH   = BASE_DIR / "data"   / "02_dataset_gold_CI.json"
 PROMPTS_DIR = BASE_DIR / "prompts"
 RESULTS_DIR = BASE_DIR / "results" / MODEL_SHORT

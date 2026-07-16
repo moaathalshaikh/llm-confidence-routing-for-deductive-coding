@@ -1,6 +1,6 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║  SBES 2026 — Deductive Coding of CI Claims                   ║
+║  SBQS 2026 — Deductive Coding of CI Claims                   ║
 ║  FILE 6 of 7: analyze_results.py  v5.0                       ║
 ║  PURPOSE: Full analysis pipeline (n=113, L1-L5, 3 models)   ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -34,7 +34,7 @@ import seaborn as sns
 
 warnings.filterwarnings("ignore")
 
-BASE_DIR = Path(os.getenv("SBES_BASE_DIR", Path(__file__).parent.parent))
+BASE_DIR = Path(os.getenv("SBQS_BASE_DIR", Path(__file__).parent.parent))
 RESULTS_DIR  = BASE_DIR / "results"
 ANALYSIS_DIR = BASE_DIR / "analysis"
 
@@ -1101,7 +1101,7 @@ def export_latex_tables(mdf: pd.DataFrame, kdf: pd.DataFrame,
     """
     latex_lines = []
     latex_lines.append("% ══════════════════════════════════════════")
-    latex_lines.append("% SBES 2026 — Auto-generated LaTeX Tables")
+    latex_lines.append("% SBQS 2026 — Auto-generated LaTeX Tables")
     latex_lines.append("% Run: python 06_analyze_results.py")
     latex_lines.append("% ══════════════════════════════════════════")
     latex_lines.append("")
@@ -1245,7 +1245,7 @@ def export_latex_tables(mdf: pd.DataFrame, kdf: pd.DataFrame,
 def write_report(df, mdf, kdf, gain_df, sig_df, rank_df, path):
     lines = [
         "="*65,
-        "SBES 2026 — Deductive Coding of CI Claims",
+        "SBQS 2026 — Deductive Coding of CI Claims",
         "Summary Report  (n=113, L1–L5, 3 models)",
         "="*65,"",
         f"Records : {len(df)}  |  Claims: {df['paper_id'].nunique()}",
@@ -1321,7 +1321,7 @@ def main():
         d.mkdir(parents=True, exist_ok=True)
 
     print("\n"+"="*65)
-    print("SBES 2026 — 06_analyze_results.py  v5.0")
+    print("SBQS 2026 — 06_analyze_results.py  v5.0")
     print("n=113 | L1–L5 | 3 models | F1-Macro primary")
     print("="*65)
 
