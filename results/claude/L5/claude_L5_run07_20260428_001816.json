@@ -1,0 +1,4861 @@
+[
+  {
+    "paper_id": "C891",
+    "input": {
+      "claim": "CI BRING CHALLENGES WHEN IMPLEMENTING IN PRACTICE",
+      "study_title": "Challenges When Adopting Continuous Integration: A Case Study",
+      "kind": "CASE STUDIES",
+      "variables": "MINDSET; TOOLS & INFRASTRCUTURE; TESTING; DOMAIN APPLICABILITY; UNDERSTANDING; CODE DEPENDENCIES; SOFTWARE REQUIREMENTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 26,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:17.071167",
+      "response_time_sec": 0.706,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH TECHNICAL CHALLENGES\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1221,
+      "completion_tokens": 46,
+      "total_tokens": 1267,
+      "estimated_cost_usd": 0.001161
+    }
+  },
+  {
+    "paper_id": "C892",
+    "input": {
+      "claim": "CI INCREASES NORMALIZED COMMIT FREQUENCY [FOR OSS PROJECTS]",
+      "study_title": "Characterizing the influence of continuous integration: empirical results from 250+ open source and proprietary projects",
+      "kind": "MSR",
+      "variables": "COMMIT SIZE"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 41,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:19.300638",
+      "response_time_sec": 0.729,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1202,
+      "completion_tokens": 50,
+      "total_tokens": 1252,
+      "estimated_cost_usd": 0.001162
+    }
+  },
+  {
+    "paper_id": "C893",
+    "input": {
+      "claim": "CI INCREASES COMMIT SIZE [FOR OSS PROJECTS]",
+      "study_title": "Characterizing the influence of continuous integration: empirical results from 250+ open source and proprietary projects",
+      "kind": "MSR",
+      "variables": "COMMIT SIZE"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 41,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:21.554152",
+      "response_time_sec": 0.753,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1199,
+      "completion_tokens": 50,
+      "total_tokens": 1249,
+      "estimated_cost_usd": 0.001159
+    }
+  },
+  {
+    "paper_id": "C894",
+    "input": {
+      "claim": "THE MORE CONTINUOUS INTEGRATION IS PRESENT WITHIN THE SYSTEMS DEVELOPMENT PROCESS, THE GREATER THE STAKEHOLDER SATISFACTION",
+      "study_title": "Agile systems development and stakeholder satisfaction: a South African empirical study",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN SATISFACTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN SATISFACTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 17,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:23.923763",
+      "response_time_sec": 0.869,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN SATISFACTION\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1207,
+      "completion_tokens": 49,
+      "total_tokens": 1256,
+      "estimated_cost_usd": 0.001162
+    }
+  },
+  {
+    "paper_id": "C895",
+    "input": {
+      "claim": "CI USAGE IS ASSOCIATED WITH HIGH CLASS TEST COVERAGE",
+      "study_title": "Analyzing the effects of test driven development in GitHub",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:26.284456",
+      "response_time_sec": 0.86,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1185,
+      "completion_tokens": 52,
+      "total_tokens": 1237,
+      "estimated_cost_usd": 0.001156
+    }
+  },
+  {
+    "paper_id": "C896",
+    "input": {
+      "claim": "LACK OF SUPPORT FOR NEEDED TECHNOLOGY IS ASSOCIATED WITH AN INCREASE RISK OF ABANDONING",
+      "study_title": "A conceptual replication of continuous integration pain points in the context of Travis CI",
+      "kind": "MSR+SURVEY",
+      "variables": "EXPOSURE TO LEAVERS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 26,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:28.437842",
+      "response_time_sec": 0.653,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH TECHNICAL CHALLENGES\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1210,
+      "completion_tokens": 46,
+      "total_tokens": 1256,
+      "estimated_cost_usd": 0.001152
+    }
+  },
+  {
+    "paper_id": "C897",
+    "input": {
+      "claim": "CI REDUCES THE CHECKIN OVERHEAD",
+      "study_title": "A Hundred Days of Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "CHECK-IN OVERHEAD (WORK TIME; IN OTHER WORDS DEVELOPERS DO ALL THE WORK THE CI SERVER IS DOING BEFORE EACH CHECK-IN\")\""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A WORKLOAD REDUCTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A WORKLOAD REDUCTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 15,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:31.782967",
+      "response_time_sec": 1.845,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A WORKLOAD REDUCTION\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1216,
+      "completion_tokens": 49,
+      "total_tokens": 1265,
+      "estimated_cost_usd": 0.001169
+    }
+  },
+  {
+    "paper_id": "C898",
+    "input": {
+      "claim": "THE STUDY ALSO INDICATES THAT CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY, AS IN MANY PULL REQUESTS DEVELOPERS HAVE TO SOLVE NON-TRIVIAL CI CONFIGURATION ISSUES.",
+      "study_title": "A Study on the Interplay between Pull Request Review and Continuous Integration Builds",
+      "kind": "MSR+SURVEY",
+      "variables": "(I) THE NUMBER OF BUILDS OVER THE PR DISCUSSION; (II) THE PERCENTAGE OF FAILED BUILDS DURING THE PR DISCUSSION OVER THE TOTAL NUMBER OF BUILDS;(III) THE STATUS OF THE FIRST BUILD, I.E., WHEN THE PR IS SUBMITTED; AND (IV) THE STATUS OF THE LAST BUILDAGE = PR DURATION FROM ITS CREATION CONTRIBUTION RATE = % OF AUTHORS' COMMITS BEFORE THE PRACCEPT RATE = % OF PREVIOUSLY MERGED PRS FROM THE SAME AUTHORADDITIONS = # OF LINES ADDED IN THE PR COMMITSDELETIONS = # OF LINES DELETED IN THE PR COMMITSCOMMITS = # OF COMMITS INCLUDED IN THE PRCHANGED FILES =  # OF FILES CHANGED UPON OPENING THE PRCOMMENTS =  # OF DISCUSSION COMMENTSREVIEW COMMENT = # OF COMMENTS IN THE PR ATTACHED TO CODECORE MEMBER = WHETHER THE PR AUTHOR IS A PROJECT MEMBERINTRA-BRANCH = WHETHER SOURCE AND TARGET PR REPOS MATCHCONTAINS FIX. = WHETHER THE PR AIMS AT FIXING AN ISSUELAST COMM. = MENTION = WHETHER THE LAST COMMIT MENTIONS A USERHAS TEST CODE = WHETHER TEST CASES ARE INCLUDED IN THE PR"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 14,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:34.180745",
+      "response_time_sec": 0.897,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1520,
+      "completion_tokens": 49,
+      "total_tokens": 1569,
+      "estimated_cost_usd": 0.001412
+    }
+  },
+  {
+    "paper_id": "C899",
+    "input": {
+      "claim": "CI INCREASES NORMALIZED COLLABORATION AMOUNT BETWEEN PROGRAMMERS [OSS AND PROPRIETARY PROJECTS]",
+      "study_title": "Characterizing the influence of continuous integration: empirical results from 250+ open source and proprietary projects",
+      "kind": "MSR",
+      "variables": "NORMALIZED MEDIAN IN-DEGREE (NMID) - IT IS BASED ON GRAPH, USING THE MODIFICATION INFORMATION"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:36.621783",
+      "response_time_sec": 0.941,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1236,
+      "completion_tokens": 48,
+      "total_tokens": 1284,
+      "estimated_cost_usd": 0.001181
+    }
+  },
+  {
+    "paper_id": "C901",
+    "input": {
+      "claim": "CI INCREASES NORMALIZED BUGS RESOLVED [OSS PROJECTS]",
+      "study_title": "Characterizing the influence of continuous integration: empirical results from 250+ open source and proprietary projects",
+      "kind": "MSR",
+      "variables": "NORMALIZED CLOSED BUGS (NCB)"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 29,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:39.202912",
+      "response_time_sec": 1.081,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH DEFECTS REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1208,
+      "completion_tokens": 50,
+      "total_tokens": 1258,
+      "estimated_cost_usd": 0.001166
+    }
+  },
+  {
+    "paper_id": "C903",
+    "input": {
+      "claim": "CI ENCOURAGES DEVELOPERS TO GIVE VERY HIGH PRIORITY TO FIX BUILD BREAKAGES.",
+      "study_title": "Continuous Delivery Practices in a Large Financial Organization",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "code_id": 39,
+      "theme_id": 1
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:41.582244",
+      "response_time_sec": 0.879,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1197,
+      "completion_tokens": 50,
+      "total_tokens": 1247,
+      "estimated_cost_usd": 0.001158
+    }
+  },
+  {
+    "paper_id": "C904",
+    "input": {
+      "claim": "CD INCREASES THE THROUGHPUT PER  DEVELOPER",
+      "study_title": "Continuous Delivery? Easy! Just Change Everything (Well, Maybe It Is Not That Easy)",
+      "kind": "ACTION RESEARCH",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:44.256748",
+      "response_time_sec": 1.174,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1196,
+      "completion_tokens": 50,
+      "total_tokens": 1246,
+      "estimated_cost_usd": 0.001157
+    }
+  },
+  {
+    "paper_id": "C905",
+    "input": {
+      "claim": "DUVALL’S SEVEN CORNER STONES OF CONTINUOUS INTEGRATION IS DIFFICULT TO BE APPLIED FOR EMBEDDED SYSTEMS",
+      "study_title": "Continuous Integration Applied to Software-Intensive Embedded Systems – Problems and Experiences",
+      "kind": "CASE STUDIES",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 26,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:46.456149",
+      "response_time_sec": 0.699,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH TECHNICAL CHALLENGES\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1211,
+      "completion_tokens": 46,
+      "total_tokens": 1257,
+      "estimated_cost_usd": 0.001153
+    }
+  },
+  {
+    "paper_id": "C906",
+    "input": {
+      "claim": "CONTINUOUS INTEGRATION INCREASES DEVELOPMENT EFFICIENCY",
+      "study_title": "Continuous Integration for Web-Based Software Infrastructures: Lessons Learned on the webinos Project",
+      "kind": "ACTION RESEARCH",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:49.348559",
+      "response_time_sec": 1.392,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1195,
+      "completion_tokens": 50,
+      "total_tokens": 1245,
+      "estimated_cost_usd": 0.001156
+    }
+  },
+  {
+    "paper_id": "C907",
+    "input": {
+      "claim": "CONTINUOUS INTEGRATION INCREASES THE CONFIDENCE ABOUT THE QUALITY.",
+      "study_title": "Continuous Integration for Web-Based Software Infrastructures: Lessons Learned on the webinos Project",
+      "kind": "ACTION RESEARCH",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.92
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 12,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:51.697885",
+      "response_time_sec": 0.849,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.92\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1200,
+      "completion_tokens": 47,
+      "total_tokens": 1247,
+      "estimated_cost_usd": 0.001148
+    }
+  },
+  {
+    "paper_id": "C908",
+    "input": {
+      "claim": "CI -> BENEFITS SOFTWARE DEVELOPMENT OF LARGE-SCALE SYSTEMS",
+      "study_title": "Continuous Integration Impediments in Large-Scale Industry Projects",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 27,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:54.064308",
+      "response_time_sec": 0.866,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1190,
+      "completion_tokens": 47,
+      "total_tokens": 1237,
+      "estimated_cost_usd": 0.00114
+    }
+  },
+  {
+    "paper_id": "C909",
+    "input": {
+      "claim": "CI IS THE RIGHT CONTEXT FOR MAKING CONTINUOUS REFACTORING POSSIBLE TO APPLY.( CONTINUOUS REFACTORING SHOULD BE INCLUDED AMONG THE PATTERNS TO FOLLOW IN ORDER TO FULLY BENEFIT FROM THE ADOPTION OF CI. )",
+      "study_title": "Continuous Refactoring in CI: A Preliminary Study on the Perceived Advantages and Barriers",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED TO FAVOR CONTINUOUS REFACTORING",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.92
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH TO FAVOR CONTINUOUS REFACTORING",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 37,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:56.666817",
+      "response_time_sec": 1.102,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED TO FAVOR CONTINUOUS REFACTORING\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.92\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1241,
+      "completion_tokens": 52,
+      "total_tokens": 1293,
+      "estimated_cost_usd": 0.001201
+    }
+  },
+  {
+    "paper_id": "C910",
+    "input": {
+      "claim": "CI -> DEVELOPERS TEND TO ASSESS CODE QUALITY CONTINUOUSLY",
+      "study_title": "Continuous Refactoring in CI: A Preliminary Study on the Perceived Advantages and Barriers",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:18:59.157617",
+      "response_time_sec": 0.99,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1199,
+      "completion_tokens": 51,
+      "total_tokens": 1250,
+      "estimated_cost_usd": 0.001163
+    }
+  },
+  {
+    "paper_id": "C911",
+    "input": {
+      "claim": "CONTINUOUS INTEGRATION ENABLES STEPWISE TRANSITION FROM WATERFALL TO AGILE",
+      "study_title": "Contrasting Big Bang with Continuous Integration Through Defect Reports",
+      "kind": "CASE STUDIES",
+      "variables": "FROM FEEDBACK LOOPS STRETCHING SEVERAL WEEKS, THE DEPARTMENT COULD NOW INTEGRATE THE LATEST CHANGES IN A MATTER OF HOURS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI FACILITATES THE TRANSITION TO AGILE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI FACILITATES THE TRANSITION TO AGILE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 25,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:01.367143",
+      "response_time_sec": 0.709,
+      "raw_response": "```json\n{\n  \"code\": \"CI FACILITATES THE TRANSITION TO AGILE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1229,
+      "completion_tokens": 48,
+      "total_tokens": 1277,
+      "estimated_cost_usd": 0.001175
+    }
+  },
+  {
+    "paper_id": "C912",
+    "input": {
+      "claim": "THE INTEGRATION TOOL-CHAIN ENABLED SHORTER FEEDBACK CYCLES",
+      "study_title": "Contrasting Big Bang with Continuous Integration Through Defect Reports",
+      "kind": "CASE STUDIES",
+      "variables": "FROM FEEDBACK LOOPS STRETCHING SEVERAL WEEKS, THE DEPARTMENT COULD NOW INTEGRATE THE LATEST CHANGES IN A MATTER OF HOURS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A FEED BACK FREQUENCY INCREASE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.92
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A FEED BACK FREQUENCY INCREASE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 28,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:04.144024",
+      "response_time_sec": 1.276,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A FEED BACK FREQUENCY INCREASE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.92\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1226,
+      "completion_tokens": 51,
+      "total_tokens": 1277,
+      "estimated_cost_usd": 0.001185
+    }
+  },
+  {
+    "paper_id": "C913",
+    "input": {
+      "claim": "WHEN EVERYTHING IS A MOVING TARGET, CONTINUOUS INTEGRATION CAN PROVIDE STABLE GROUND",
+      "study_title": "Contrasting Big Bang with Continuous Integration Through Defect Reports",
+      "kind": "CASE STUDIES",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.78
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 23,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:06.463303",
+      "response_time_sec": 0.819,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.78\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1201,
+      "completion_tokens": 50,
+      "total_tokens": 1251,
+      "estimated_cost_usd": 0.001161
+    }
+  },
+  {
+    "paper_id": "C914",
+    "input": {
+      "claim": "CI IS A DOMINANT FACTOR OF PULL-REQUEST ACCEPTANCE AND LATENCY. (THE PULL-REQUESTS WITH CI FAILURES HAVE ABOUT 89.6% GREATER ODDS OF BEING REJECTED EVENTUALLY.; FOR PULL-REQUEST LATENCY, THE CI RUNNING TIME IS HIGHLY SIGNIFICANT AND COVERS MORE THAN 21% OF THE VARIANCE EXPLAINED.)",
+      "study_title": "Determinants of pull-based development in the context of continuous integration",
+      "kind": "CONTROLLED EXP.",
+      "variables": "- PR MERGED: BINARY, WHETHER THE PR HAS BEEN MERGED INTO THE PROJECT’S CODE BASE. - PR LATENCY: THE TIME IN MINUTES INTERVAL BETWEEN PULL-REQUEST CREATION AND CLOSING DATE. IN CASE OF “REOPENED” PULL-REQUESTS, WE ONLY CONSIDERED THE DATE WHEN THEY WERE FIRST CLOSED.- PROJECT AGE: THE TIME FROM PROJECT CREATION ON GITHUB TO THE PULL-REQUEST CREATION IN MONTHS, - TEAM SIZE: THE NUMBER OF ACTIVE INTEGRATORS, WHO DECIDE WHETHER TO ACCEPT THE NEW CONTRIBUTIONS, DURING THE THREE MONTHS PRIOR TO PULL-REQUEST CREATION. - AREA HOTNESS: THE MEDIAN OF THE NUMBER OF COMMITS TO FILES TOUCHED BY THE PULL-REQUEST RELATIVE TO ALL PROJECT COMMITS DURING THE LAST THREE MONTHS. - CHURN: TOTAL NUMBER OF LINES ADDED AND DELETED BY THE PULL-REQUEST. BIGGER CODE CHANGES MAY BE MORE COMPLEX, AND REQUIRE LONGER CODE EVALUATION.- N COMMITS: TOTAL NUMBER OF COMMITS IN THE PULL-REQUEST, WHICH IS A SIGNAL OF PULL-REQUEST SIZE. TRAVIS-CI TESTS EACH COMMIT SEPARATELY. - DESCRIPTION COMPLEXITY: TOTAL NUMBER OF WORDS IN THE PULL-REQUEST TITLE AND DESCRIPTION. LONGER DESCRIPTIONS MAY INDICATE HIGHER COMPLEXITY (LONGER EVALUATION), OR BETTER DOCUMENTATION WHICH CAN BE FACILITATE EVALUATION PROCESS AKIN TO ISSUE REPORTS [32].- TEST INCLUSION: BINARY, MEASURING IF THE PULL-REQUEST TOUCHED AT LEAST ONE TEST FILE.  - CORE TEAM: BINARY, WHETHER THE SUBMITTER IS MEMBER OF CORE DEVELOPMENT TEAM. THERE IS A RECOGNIZED STRUCTURE, I.E., “CORE” AND “PERIPHERY”, WITH OPEN SOURCE SOFTWARE PROJECTS. CORE DEVELOPERS WHO MAKE CONTRIBUTIONS TO THEIR OWN PROJECT WOULD BE MORE LIKELY TO HAVE THEIR CONTRIBUTIONS ACCEPTED BY FELLOW PROJECT INTEGRATORS.- SOCIAL STRENGTH: THE FRACTION OF TEAM MEMBERS THAT INTERACTED WITH THE SUBMITTER IN THE LAST THREE MONTHS. INTEGRATORS MAY FAVOR AND TRUST CONTRIBUTORS MORE STRONGLY CONNECTED TO THEM. - N FOLLOWERS: THE NUMBER OF GITHUB USERS FOLLOWING THE INCOMING PULL-REQUEST’S SUBMITTER AT THE TIME OF CREATION, AS A MEASURE OF SOCIAL REPUTATION. - N COMMENTS: TOTAL NUMBER OF OVERALL AND INLINE COMMENTS PART OF A PULL-REQUEST DISCUSSION. PULL-REQUESTS WITH LOTS OF COMMENTS TEND TO SIGNAL CONTROVERSY [10].- FIRST HUMAN RESPONSE: THE TIME INTERVAL IN MINUTES FROM PULL-REQUEST CREATION TO THE FIRST RESPONSE BY REVIEWERS, WHICH CAN BE INDICATED AS A MEASURE OF THE PROJECT TEAM’S RESPONSIVENESS.- WORKLOAD: TOTAL NUMBER OF PULL-REQUESTS STILL OPEN IN EACH PROJECT AT CURRENT PULL-REQUEST CREATION TIME. IT IS REASONABLE TO ASSUME THAT IF THE WORKLOADS OF INTEGRATORS ARE HEAVY, THE NEW RECEIVED PULL-REQUEST WOULD NEED MORE TIME TO BE PROCESSED.- INTEGRATOR   AVAILABILITY : THE MINIMUM NUMBER OF HOURS (0 . . . 23) UNTIL EITHER OF THE TOP TWO INTEGRATORS (BY NUMBER OF PULL-REQUESTS HANDLED THE LAST THREE MONTHS) ARE ACTIVE, ON AVERAGE (BASED ON ACTIVITY IN THE LAST THREE MONTHS), DURING 24 H.  - FRIDAY EFFECT: BINARY, TRUE IF THE PULL-REQUEST ARRIVES ON FRIDAY. - CI FAILURE: A BINARY VARIABLE TO ENCODE THE PRESENCE OF BUILD&TEST FAILURES WHILE RUNNING TRAVIS-CI.- CI LATENCY: THE TIME INTERVAL IN MINUTES FROM PULL-REQUEST CREATION TO THE LAST COMMIT TESTED BY CI."
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:09.119924",
+      "response_time_sec": 1.156,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 2173,
+      "completion_tokens": 57,
+      "total_tokens": 2230,
+      "estimated_cost_usd": 0.001966
+    }
+  },
+  {
+    "paper_id": "C915",
+    "input": {
+      "claim": "CI INCREASES THE PROPORTION OF SUCCESSFUL BUILDS",
+      "study_title": "Effect of Continuous Integration on Build Health in Undergraduate Team Projects",
+      "kind": "CONTROLLED EXP.",
+      "variables": "BUILD STATUS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "code_id": 39,
+      "theme_id": 1
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:12.379583",
+      "response_time_sec": 1.759,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH BUILD HEALTH\",\n  \"theme\": \"BUILD PATTERNS\",\n  \"confidence\": 0.95\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1191,
+      "completion_tokens": 45,
+      "total_tokens": 1236,
+      "estimated_cost_usd": 0.001133
+    }
+  },
+  {
+    "paper_id": "C916",
+    "input": {
+      "claim": "CI IMPROVES THE CAPACITY TO RELEASE CLEAN CODE (CLEAN RELEASE BUILDS)",
+      "study_title": "Effect of Continuous Integration on Build Health in Undergraduate Team Projects",
+      "kind": "CONTROLLED EXP.",
+      "variables": "BUILD STATUS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "code_id": 39,
+      "theme_id": 1
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:14.630177",
+      "response_time_sec": 0.75,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH BUILD HEALTH\",\n  \"theme\": \"BUILD PATTERNS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1201,
+      "completion_tokens": 45,
+      "total_tokens": 1246,
+      "estimated_cost_usd": 0.001141
+    }
+  },
+  {
+    "paper_id": "C917",
+    "input": {
+      "claim": "TDD AND CI REDUCES THE DEFECTS COMPARING WITH NO CI",
+      "study_title": "Effectiveness of Test-Driven Development and Continuous Integration: A Case Study",
+      "kind": "CASE STUDIES",
+      "variables": "THE DURATION BETWEEN THE DISCOVERY AND CLOSURE OF DEFECTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 29,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:16.861341",
+      "response_time_sec": 0.731,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH DEFECTS REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.95\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1209,
+      "completion_tokens": 50,
+      "total_tokens": 1259,
+      "estimated_cost_usd": 0.001167
+    }
+  },
+  {
+    "paper_id": "C918",
+    "input": {
+      "claim": "TDD AND CI HELPED IN REDUCING THE TIME TO FIND AND FIX THE DEFECTS",
+      "study_title": "Effectiveness of Test-Driven Development and Continuous Integration: A Case Study",
+      "kind": "CASE STUDIES",
+      "variables": "THE DURATION BETWEEN THE DISCOVERY AND CLOSURE OF DEFECTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.92
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 31,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:19.395748",
+      "response_time_sec": 1.034,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.92\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1216,
+      "completion_tokens": 56,
+      "total_tokens": 1272,
+      "estimated_cost_usd": 0.001197
+    }
+  },
+  {
+    "paper_id": "C919",
+    "input": {
+      "claim": "CI -> IMPROVES COMMUNICATION INTRA-TEAM",
+      "study_title": "Experienced benefits of continuous integration in industry software product development: A case study",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:23.148784",
+      "response_time_sec": 2.253,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1191,
+      "completion_tokens": 48,
+      "total_tokens": 1239,
+      "estimated_cost_usd": 0.001145
+    }
+  },
+  {
+    "paper_id": "C920",
+    "input": {
+      "claim": "CI -> IMPROVES COMMUNICATION INTER-TEAM",
+      "study_title": "Experienced benefits of continuous integration in industry software product development: A case study",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:25.326433",
+      "response_time_sec": 0.677,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1190,
+      "completion_tokens": 48,
+      "total_tokens": 1238,
+      "estimated_cost_usd": 0.001144
+    }
+  },
+  {
+    "paper_id": "C921",
+    "input": {
+      "claim": "CI -> IMPROVES PROJECT PREDICTABILITY",
+      "study_title": "Experienced benefits of continuous integration in industry software product development: A case study",
+      "kind": "SURVEY",
+      "variables": "AS AN EFFECT OF FACILITATING PARALLEL DEVELOPMENT IN THE SAME SOURCE CONTEXT AND LESS COMPILING AND TESTING LOCALLY BEFORE CHECKING IN"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 23,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:27.532436",
+      "response_time_sec": 0.706,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1220,
+      "completion_tokens": 50,
+      "total_tokens": 1270,
+      "estimated_cost_usd": 0.001176
+    }
+  },
+  {
+    "paper_id": "C922",
+    "input": {
+      "claim": "CI CONTRIBUTES   TO   INCREASED   DEVELOPER   PRODUCTIVITY (AS   AN  EFFECT  OF FACILITATING PARALLEL  DEVELOPMENT IN THE SAME  SOURCE   CONTEXT)",
+      "study_title": "Experienced benefits of continuous integration in industry software product development: A case study",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:29.811402",
+      "response_time_sec": 0.779,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1220,
+      "completion_tokens": 50,
+      "total_tokens": 1270,
+      "estimated_cost_usd": 0.001176
+    }
+  },
+  {
+    "paper_id": "C923",
+    "input": {
+      "claim": "CI IS CORRELATED TO THE PRESENCE OF TEST PRACTICE",
+      "study_title": "Experienced benefits of continuous integration in industry software product development: A case study",
+      "kind": "SURVEY",
+      "variables": "AGILE TESTING PRACTICES"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:32.028225",
+      "response_time_sec": 0.716,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1196,
+      "completion_tokens": 52,
+      "total_tokens": 1248,
+      "estimated_cost_usd": 0.001165
+    }
+  },
+  {
+    "paper_id": "C924",
+    "input": {
+      "claim": "CI HELPS TO CATCH PROBLEMS AS EARLY AS POSSIBLE",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": "AUTOMATION, HOWEVER, IS NOT ONLY RELATED TO AUTOMATED TESTING, AS ONE RESPONDENT HIGHLIGHTED, BUT CAN BE DESCRIBED IN TERMS OF “AUTOMATED CODE QUALITY ENFORCEMENT, AUTOMATED RELEASE CYCLES, AUTOMATED DEPLOYMENT”. GENERALLY SPEAKING, AUTOMATION IS AIMED AT “PERFORMING A WIDE RANGE OF MANUAL STEPS THAT A HUMAN WOULD NOT NORMALLY BE BOTHERED TO CHECK”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:34.326568",
+      "response_time_sec": 0.798,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1293,
+      "completion_tokens": 56,
+      "total_tokens": 1349,
+      "estimated_cost_usd": 0.001258
+    }
+  },
+  {
+    "paper_id": "C925",
+    "input": {
+      "claim": "CI IMPROVES QUALITY",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": "ALTHOUGH MOST OF THE RESPONDENTS HAVE MENTIONED “SOFTWARE QUALITY” WITH NO ADDITIONAL DETAILS, SOME RESPONDENTS HAVE MENTIONED OTHER QUALITY ATTRIBUTES SUCH AS (1) INCREASED STABILITY, (2) QUALITY OF CODE AND TEST, AND (3) QUALITY OF DOCUMENTATION. ONE OF THE ANONYMOUS RESPONDENTS HAS DETAILED HOW CI CAN IMPROVE SOFTWARE QUALITY: “WHEN YOU USE CI, YOU HAVE A GOOD HEALTH CHECK IN YOUR CODE BASE, AND FROM TIME TO TIME YOU CAN KEEP LOOKING IF ANY OTHER DEPENDENCIES DIDN’T BREAK YOUR PACKAGE. IT IS A WARRANT OF QUALITY OF YOUR CODE”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:36.710019",
+      "response_time_sec": 0.883,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1340,
+      "completion_tokens": 51,
+      "total_tokens": 1391,
+      "estimated_cost_usd": 0.001276
+    }
+  },
+  {
+    "paper_id": "C926",
+    "input": {
+      "claim": "CI IMPROVES THE FAST DEVELOPMENT CYCLE",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": "ACCORDING TO ONE RESPONDENT, THIS HAPPENS BECAUSE “[ITS] EXTREMELY FAST DEVELOPMENT CYCLE [MADE IT] EASY TO TRY OUT STUFF & EASY TO ADD NEW TESTING (YOUDON’T NEED TO COORDINATE WITH OTHER PEOPLE AS MUCH, WHICH IS TIME-EXPENSIVE)”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.78
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:38.998618",
+      "response_time_sec": 0.788,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.78\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1266,
+      "completion_tokens": 50,
+      "total_tokens": 1316,
+      "estimated_cost_usd": 0.001213
+    }
+  },
+  {
+    "paper_id": "C927",
+    "input": {
+      "claim": "CI ENABLES CROSS-PLATFORM TESTING",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": "“COMPILING FOR MULTIPLE DIFFERENT TARGETS (X86,ARM,WINDOW,LINUX ETC)”. ANOTHER RESPONDENT COMPLEMENTED THAT “CROSS-PLATFORM TESTING ACTS AS A SORT OF DOCUMENTATION”, AND “[IT CAN BE CONFIGURED] WITH MODERATE EASE AND IN A FRACTION OF THE TIME”. SOME RESPONDENTS ALSO MENTIONED THAT “THIS [TASK] IS NOT FEASIBLE OR COST-EFFECTIVE TO DO MANUALLY”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.92
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 38,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:41.311564",
+      "response_time_sec": 0.813,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.92\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1301,
+      "completion_tokens": 51,
+      "total_tokens": 1352,
+      "estimated_cost_usd": 0.001245
+    }
+  },
+  {
+    "paper_id": "C928",
+    "input": {
+      "claim": "CONTINUOUS INTEGRATION GIVES MORE CONFIDENCE TO PERFORM REQUIRED CODE CHANGES",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": "AS ONE RESPONDENT DESCRIBED: “DEPENDS ON THE COVERAGE, BUT SOME SORT OF CONFIDENCE THAT INTRODUCED CHANGES DON’T BREAK THE CURRENT BEHAVIOR”. THE SAME RESPONDENT WENT FURTHER AND COMPLEMENTED THAT “I ASSUME THE MOSTCRITICAL PARTS OF THE SYSTEM HAVE BEEN COVERED BY TEST CASES”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.92
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 12,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:43.566170",
+      "response_time_sec": 0.754,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.92\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1283,
+      "completion_tokens": 47,
+      "total_tokens": 1330,
+      "estimated_cost_usd": 0.001214
+    }
+  },
+  {
+    "paper_id": "C930",
+    "input": {
+      "claim": "CI GENERATED TECHNICAL PROBLEMS IS PARTICULARLY CHALLENGING FOR ONBOARDING NEWCOMERS (SINCE THEY “DO NOT UNDERSTAND WHAT CI DOES AND WHAT IT DOESN’T”.)",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 26,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:45.909323",
+      "response_time_sec": 0.843,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH TECHNICAL CHALLENGES\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1228,
+      "completion_tokens": 46,
+      "total_tokens": 1274,
+      "estimated_cost_usd": 0.001166
+    }
+  },
+  {
+    "paper_id": "C931",
+    "input": {
+      "claim": "ANOTHER RECURRING PROBLEM OF CI IS THE FALSE SENSE OF CONFIDENCE",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI MAY GENERATE A FALSE SENSE OF CONFIDENCE",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI MAY GENERATE A FALSE SENSE OF CONFIDENCE",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 11,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:48.187772",
+      "response_time_sec": 0.778,
+      "raw_response": "```json\n{\n  \"code\": \"CI MAY GENERATE A FALSE SENSE OF CONFIDENCE\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1199,
+      "completion_tokens": 50,
+      "total_tokens": 1249,
+      "estimated_cost_usd": 0.001159
+    }
+  },
+  {
+    "paper_id": "C932",
+    "input": {
+      "claim": "CONTINUOUS INTEGRATION TECHNIQUES REQUIRE DEVELOPERS A CERTAIN LEVEL OF DISCIPLINE",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH HUMAN CHALLENGES",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH HUMAN CHALLENGES",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 19,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:50.803171",
+      "response_time_sec": 1.115,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH HUMAN CHALLENGES\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1201,
+      "completion_tokens": 47,
+      "total_tokens": 1248,
+      "estimated_cost_usd": 0.001149
+    }
+  },
+  {
+    "paper_id": "C933",
+    "input": {
+      "claim": "ADDITIONAL EFFORT WAS ALSO EVIDENCED WHEN APPLY CI",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 14,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:53.085442",
+      "response_time_sec": 0.782,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1199,
+      "completion_tokens": 49,
+      "total_tokens": 1248,
+      "estimated_cost_usd": 0.001155
+    }
+  },
+  {
+    "paper_id": "C934",
+    "input": {
+      "claim": "CI IMPROVES AUTOMATION",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": "AUTOMATION, HOWEVER, IS NOT ONLY RELATED TO AUTOMATED TESTING, AS ONE RESPONDENT HIGHLIGHTED, BUT CAN BE DESCRIBED IN TERMS OF “AUTOMATED CODE QUALITY ENFORCEMENT, AUTOMATED RELEASE CYCLES, AUTOMATED DEPLOYMENT”. GENERALLY SPEAKING, AUTOMATION IS AIMED AT “PERFORMING A WIDE RANGE OF MANUAL STEPS THAT A HUMAN WOULD NOT NORMALLY BE BOTHERED TO CHECK”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.92
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 24,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:55.433636",
+      "response_time_sec": 0.848,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.92\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1285,
+      "completion_tokens": 50,
+      "total_tokens": 1335,
+      "estimated_cost_usd": 0.001228
+    }
+  },
+  {
+    "paper_id": "C936",
+    "input": {
+      "claim": "CI IMPROVES PRODUCTIVITY",
+      "study_title": "Increasing quality and managing complexity in neuroinformatics software development with continuous integration",
+      "kind": "MSR",
+      "variables": "CI-BASED WORKFLOW, DUE TO RAPID FEEDBACK ABOUT CODE INTEGRATION PROBLEMS AND TRACKING OF CODE HEALTH MEASURES, ENABLED SUBSTANTIAL INCREASES IN PRODUCTIVITY FOR A MAJOR NEUROINFORMATICS PROJECT AND ADDITIONAL BENEFITS FOR THREE FURTHER PROJECTS."
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.92
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:19:57.896567",
+      "response_time_sec": 0.963,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.92\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1246,
+      "completion_tokens": 50,
+      "total_tokens": 1296,
+      "estimated_cost_usd": 0.001197
+    }
+  },
+  {
+    "paper_id": "C937",
+    "input": {
+      "claim": "CI REDUCES THE TURNAROUND TIME FOR RESOLVING BROKEN BUILDS",
+      "study_title": "Increasing quality and managing complexity in neuroinformatics software development with continuous integration",
+      "kind": "MSR",
+      "variables": "TIME UNTIL THE FAILURE IS RESOLVED, HOURS; # OF COMMITS TO FIX THE BUILD"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 31,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:00.109953",
+      "response_time_sec": 0.713,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1217,
+      "completion_tokens": 56,
+      "total_tokens": 1273,
+      "estimated_cost_usd": 0.001198
+    }
+  },
+  {
+    "paper_id": "C938",
+    "input": {
+      "claim": "CI PROMOTES A REGULAR RELEASE CYCLE;THIS ALLOWS US TO GIVE INCREMENTAL VALUE TO THE BUSINESS FREQUENTLY AND PREDICTABLY.",
+      "study_title": "It's Not the Pants, it's the People in the Pants Learnings from the Gap Agile Transformation -- What Worked, How We Did it, and What Still Puzzles Us",
+      "kind": "ACTION RESEARCH",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.92
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:02.314556",
+      "response_time_sec": 0.704,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.92\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1240,
+      "completion_tokens": 51,
+      "total_tokens": 1291,
+      "estimated_cost_usd": 0.001196
+    }
+  },
+  {
+    "paper_id": "C939",
+    "input": {
+      "claim": "CI IMPROVES CODE QUALITY",
+      "study_title": "It's Not the Pants, it's the People in the Pants Learnings from the Gap Agile Transformation -- What Worked, How We Did it, and What Still Puzzles Us",
+      "kind": "ACTION RESEARCH",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:04.595956",
+      "response_time_sec": 0.781,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1214,
+      "completion_tokens": 51,
+      "total_tokens": 1265,
+      "estimated_cost_usd": 0.001175
+    }
+  },
+  {
+    "paper_id": "C940",
+    "input": {
+      "claim": "CI CAN HELP DETECT MERGING ISSUES EARLY AND EASILY",
+      "study_title": "Moving from Closed to Open Source: Observations from Six Transitioned Projects to GitHub",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.78
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:07.000482",
+      "response_time_sec": 0.904,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.78\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1198,
+      "completion_tokens": 57,
+      "total_tokens": 1255,
+      "estimated_cost_usd": 0.001186
+    }
+  },
+  {
+    "paper_id": "C941",
+    "input": {
+      "claim": "CI INCREASES DEVELOPER PRODUCTIVITY (MENTION CONTINUOUS INTEGRATION AND CONTINUOUS DEPLOYMENT AS MAJOR BUILDING BLOCKS OF AN EFFICIENT AUTOMATED LOOP COMPRISING DIFFERENT FULFILLMENT LEVELS)",
+      "study_title": "Practitioners' eye on continuous software engineering: An interview study",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:09.342213",
+      "response_time_sec": 0.841,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1220,
+      "completion_tokens": 50,
+      "total_tokens": 1270,
+      "estimated_cost_usd": 0.001176
+    }
+  },
+  {
+    "paper_id": "C943",
+    "input": {
+      "claim": "CORE DEVELOPERS IN TEAMS USING CI ARE ABLE TO DISCOVER SIGNIFICANTLY MORE BUGS THAN IN TEAMS NOT USING CI.",
+      "study_title": "Quality and productivity outcomes relating to continuous integration in GitHub",
+      "kind": "MSR",
+      "variables": "NUMBER OF BUG REPORTS = (I.E., ISSUES CLEARLY LABELED AS BUGS)"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 29,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:11.954447",
+      "response_time_sec": 1.112,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1225,
+      "completion_tokens": 51,
+      "total_tokens": 1276,
+      "estimated_cost_usd": 0.001184
+    }
+  },
+  {
+    "paper_id": "C944",
+    "input": {
+      "claim": "ONLY 51.3% OF THE PROJECTS DELIVER MERGED PRS MORE QUICKLY AFTER THE ADOPTION OF CI",
+      "study_title": "Studying the impact of adopting continuous integration on the delivery time of pull requests",
+      "kind": "MSR",
+      "variables": "# OF SUBMITTED PR"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:14.612244",
+      "response_time_sec": 1.157,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1209,
+      "completion_tokens": 57,
+      "total_tokens": 1266,
+      "estimated_cost_usd": 0.001195
+    }
+  },
+  {
+    "paper_id": "C945",
+    "input": {
+      "claim": "IN 73% (46/63) OF THE PROJECTS, PRS ARE MERGED FASTER BEFORE ADOPTING CI",
+      "study_title": "Studying the impact of adopting continuous integration on the delivery time of pull requests",
+      "kind": "MSR",
+      "variables": "# OF SUBMITTED PR"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 33,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:16.978415",
+      "response_time_sec": 0.866,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1209,
+      "completion_tokens": 57,
+      "total_tokens": 1266,
+      "estimated_cost_usd": 0.001195
+    }
+  },
+  {
+    "paper_id": "C946",
+    "input": {
+      "claim": "SURPRISINGLY, IN 54% OF THE PROJECTS, PRS HAVE A LONGER LIFETIME AFTER ADOPTING CI",
+      "study_title": "Studying the impact of adopting continuous integration on the delivery time of pull requests",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.92
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 33,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:19.842203",
+      "response_time_sec": 1.363,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.92\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1206,
+      "completion_tokens": 57,
+      "total_tokens": 1263,
+      "estimated_cost_usd": 0.001193
+    }
+  },
+  {
+    "paper_id": "C947",
+    "input": {
+      "claim": "71.3% (62/87) OF THE PROJECTS INCREASE PR SUBMISSIONS AFTER ADOPTING CI.",
+      "study_title": "Studying the impact of adopting continuous integration on the delivery time of pull requests",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:22.097058",
+      "response_time_sec": 0.754,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1204,
+      "completion_tokens": 50,
+      "total_tokens": 1254,
+      "estimated_cost_usd": 0.001163
+    }
+  },
+  {
+    "paper_id": "C948",
+    "input": {
+      "claim": "AFTER ADOPTING CI PROJECTS DELIVER 3.43 TIMES MORE PRS PER RELEASE THAN BEFORE CI",
+      "study_title": "Studying the impact of adopting continuous integration on the delivery time of pull requests",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:24.566470",
+      "response_time_sec": 0.969,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1208,
+      "completion_tokens": 51,
+      "total_tokens": 1259,
+      "estimated_cost_usd": 0.00117
+    }
+  },
+  {
+    "paper_id": "C949",
+    "input": {
+      "claim": "WE FIND THAT 75.9% (66/87) OF THE STUDIED PROJECTS TEND TO INCREASE THE NUMBER OF PR CONTRIBUTORS PER RELEASE AFTER ADOPTING CI.",
+      "study_title": "Studying the impact of adopting continuous integration on the delivery time of pull requests",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:26.834509",
+      "response_time_sec": 0.768,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1223,
+      "completion_tokens": 48,
+      "total_tokens": 1271,
+      "estimated_cost_usd": 0.00117
+    }
+  },
+  {
+    "paper_id": "C950",
+    "input": {
+      "claim": "CI IS RELATED TO SMALL MERGE COMMITS",
+      "study_title": "The impact of continuous integration on other software development practices: a large-scale empirical study",
+      "kind": "MSR+SURVEY",
+      "variables": "CODE CHURN"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 41,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:29.125042",
+      "response_time_sec": 0.79,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1197,
+      "completion_tokens": 50,
+      "total_tokens": 1247,
+      "estimated_cost_usd": 0.001158
+    }
+  },
+  {
+    "paper_id": "C951",
+    "input": {
+      "claim": "CI IS RELATED TO AN INCREASE OF MERGE COMMITS",
+      "study_title": "The impact of continuous integration on other software development practices: a large-scale empirical study",
+      "kind": "MSR+SURVEY",
+      "variables": "CODE CHURN"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 41,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:31.428378",
+      "response_time_sec": 0.803,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1199,
+      "completion_tokens": 50,
+      "total_tokens": 1249,
+      "estimated_cost_usd": 0.001159
+    }
+  },
+  {
+    "paper_id": "C952",
+    "input": {
+      "claim": "MORE PRS ARE BEING CLOSED AFTER ADOPTING CI",
+      "study_title": "The impact of continuous integration on other software development practices: a large-scale empirical study",
+      "kind": "MSR+SURVEY",
+      "variables": "# OF PR CLOSED"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:33.727740",
+      "response_time_sec": 0.799,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1201,
+      "completion_tokens": 57,
+      "total_tokens": 1258,
+      "estimated_cost_usd": 0.001189
+    }
+  },
+  {
+    "paper_id": "C953",
+    "input": {
+      "claim": "CI IS RELATED TO AN INCREASING TREND IN THE NUMBER OF ISSUES CLOSED PER TIME PERIOD,",
+      "study_title": "The impact of continuous integration on other software development practices: a large-scale empirical study",
+      "kind": "MSR+SURVEY",
+      "variables": "# OF CLOSED ISSUES"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH ISSUES REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 30,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:35.999562",
+      "response_time_sec": 0.772,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1212,
+      "completion_tokens": 50,
+      "total_tokens": 1262,
+      "estimated_cost_usd": 0.00117
+    }
+  },
+  {
+    "paper_id": "C954",
+    "input": {
+      "claim": "THE AMOUNT (AND POTENTIALLY THE QUALITY) OF AUTOMATED TESTS SEEMS TO INCREASE",
+      "study_title": "The impact of continuous integration on other software development practices: a large-scale empirical study",
+      "kind": "MSR+SURVEY",
+      "variables": "# OF UNIT TESTS PER BUILD"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:38.497423",
+      "response_time_sec": 0.997,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1212,
+      "completion_tokens": 52,
+      "total_tokens": 1264,
+      "estimated_cost_usd": 0.001178
+    }
+  },
+  {
+    "paper_id": "C955",
+    "input": {
+      "claim": "MAGNETISM AND STICKINESS VALUES TEND TO DROP AFTER TRAVIS CI HAS BEEN ADOPTED",
+      "study_title": "The impact of the adoption of continuous integration on developer attraction and retention",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN MAGNETISM AND RETENTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN MAGNETISM AND RETENTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 20,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:40.815251",
+      "response_time_sec": 0.818,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASE IN MAGNETISM AND RETENTION\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1200,
+      "completion_tokens": 53,
+      "total_tokens": 1253,
+      "estimated_cost_usd": 0.001172
+    }
+  },
+  {
+    "paper_id": "C956",
+    "input": {
+      "claim": "THE CI ADOPTION LEADS TO A WORSENING IN THE PERCEIVED TEAM PRODUCTIVITY.",
+      "study_title": "The links between agile practices, interpersonal conflict, and perceived productivity",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASED PERCEPTION OF PRODUCTIVITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASED PERCEPTION OF PRODUCTIVITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 16,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:43.072534",
+      "response_time_sec": 0.757,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASED PERCEPTION OF PRODUCTIVITY\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1199,
+      "completion_tokens": 51,
+      "total_tokens": 1250,
+      "estimated_cost_usd": 0.001163
+    }
+  },
+  {
+    "paper_id": "C957",
+    "input": {
+      "claim": "THE COGNITIVELY DIFFICULT TASK OF INCONSISTENCY PREDICTION IS ABANDONED",
+      "study_title": "The Tarpit – A general theory of software engineering",
+      "kind": "OTHER",
+      "variables": "WITH NO PREDICTION OF INCONSISTENCY, THERE IS NO NEED TO KEEP COMMUNICATION ABOUT THESE DECISIONS."
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH HUMAN CHALLENGES",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.45
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A WORKLOAD REDUCTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 15,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:45.416207",
+      "response_time_sec": 0.843,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH HUMAN CHALLENGES\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.45\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1218,
+      "completion_tokens": 47,
+      "total_tokens": 1265,
+      "estimated_cost_usd": 0.001162
+    }
+  },
+  {
+    "paper_id": "C958",
+    "input": {
+      "claim": "THE COMMUNICATION REQUIRED BY PROACTIVE INCONSISTENCY MITIGATION IS AVOIDED",
+      "study_title": "The Tarpit – A general theory of software engineering",
+      "kind": "OTHER",
+      "variables": "WITH NO PREDICTION OF INCONSISTENCY, THERE IS NO NEED TO KEEP COMMUNICATION ABOUT THESE DECISIONS."
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.35
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:48.045325",
+      "response_time_sec": 1.129,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.35\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1218,
+      "completion_tokens": 48,
+      "total_tokens": 1266,
+      "estimated_cost_usd": 0.001166
+    }
+  },
+  {
+    "paper_id": "C959",
+    "input": {
+      "claim": "CI FORCES MORE TEST EFFORT",
+      "study_title": "The Tarpit – A general theory of software engineering",
+      "kind": "OTHER",
+      "variables": "IN ORDER TO AVOID THE INCONSISTENCY PREDICTION, THE TEAM IS FORCED TO DO AUTOMATED TESTS."
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:51.449105",
+      "response_time_sec": 1.903,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1204,
+      "completion_tokens": 52,
+      "total_tokens": 1256,
+      "estimated_cost_usd": 0.001171
+    }
+  },
+  {
+    "paper_id": "C960",
+    "input": {
+      "claim": "THE COGNITIVE TRACTABILITY OF THE PROGRAMMING TASK IS INCREASED BY THE SINGLE-PROGRAMMER ASSUMPTION.",
+      "study_title": "The Tarpit – A general theory of software engineering",
+      "kind": "OTHER",
+      "variables": "IT MEANS THAT DEVELOPERS FEEL MORE CONFIDENT TO WORK AS THEY ARE THE SINGLE DEVELOPER ON THE PROJECT. MEANING THAT HE CAN WORK WITHOUT TOO MANY WORRIES WITH OTHER WORKERS."
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 12,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:54.185415",
+      "response_time_sec": 1.236,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1247,
+      "completion_tokens": 47,
+      "total_tokens": 1294,
+      "estimated_cost_usd": 0.001186
+    }
+  },
+  {
+    "paper_id": "C961",
+    "input": {
+      "claim": "CI HELPS CATCH BUGS EARLIER",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "DEVELOPERS CONCERNS ABOUT THE BUILD BREAKAGE"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 31,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:20:56.401211",
+      "response_time_sec": 0.715,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH DEFECTS REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1195,
+      "completion_tokens": 50,
+      "total_tokens": 1245,
+      "estimated_cost_usd": 0.001156
+    }
+  },
+  {
+    "paper_id": "C962",
+    "input": {
+      "claim": "CI -> LESS WORRY ABOUT BREAKING THE BUILD",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "DEVELOPERS CONCERNS ABOUT THE BUILD BREAKAGE"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 12,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:00.087633",
+      "response_time_sec": 2.186,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1198,
+      "completion_tokens": 47,
+      "total_tokens": 1245,
+      "estimated_cost_usd": 0.001146
+    }
+  },
+  {
+    "paper_id": "C964",
+    "input": {
+      "claim": "CI HELPS PROJECTS DEPLOY MORE OFTEN",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "DEVELOPERS TOLD US THAT CI ENABLED THEM TO HAVE SHORTER DEVELOPMENT CYCLES THAN THEY OTHERWISE WOULD HAVE"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:02.420692",
+      "response_time_sec": 0.833,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1215,
+      "completion_tokens": 51,
+      "total_tokens": 1266,
+      "estimated_cost_usd": 0.001176
+    }
+  },
+  {
+    "paper_id": "C965",
+    "input": {
+      "claim": "CI ALLOWS FASTER ITERATIONS",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "ALLOWS THEM TO QUICKLY IDENTIFY WHEN THE CURRENT CHANGESET WILL BREAK THE BUILD"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:04.921434",
+      "response_time_sec": 1.0,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1205,
+      "completion_tokens": 50,
+      "total_tokens": 1255,
+      "estimated_cost_usd": 0.001164
+    }
+  },
+  {
+    "paper_id": "C966",
+    "input": {
+      "claim": "CI MAKES INTEGRATION EASIER.",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "AVOID PAINFUL INTEGRATIONS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 34,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:07.167762",
+      "response_time_sec": 0.746,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1190,
+      "completion_tokens": 53,
+      "total_tokens": 1243,
+      "estimated_cost_usd": 0.001164
+    }
+  },
+  {
+    "paper_id": "C967",
+    "input": {
+      "claim": "CI ENFORCES A SPECIFIC WORKFLOW",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "E.G., ENSURING ALL TESTS ARE RUN BEFORE ACCEPTING CHANGES"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.62
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 24,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:10.170744",
+      "response_time_sec": 1.503,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.62\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1202,
+      "completion_tokens": 50,
+      "total_tokens": 1252,
+      "estimated_cost_usd": 0.001162
+    }
+  },
+  {
+    "paper_id": "C968",
+    "input": {
+      "claim": "TEST ACROSS ALL PLATFORMS",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "CI ALLOWS A SYSTEM TO BE TESTED ON ALL MAJOR PLATFORMS (WINDOWS, LINUX, AND OS X)"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.92
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 38,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:12.506546",
+      "response_time_sec": 0.835,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.92\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1208,
+      "completion_tokens": 51,
+      "total_tokens": 1259,
+      "estimated_cost_usd": 0.00117
+    }
+  },
+  {
+    "paper_id": "C969",
+    "input": {
+      "claim": "PROJECTS WITH CI GIVE MORE VALUE TO AUTOMATED TESTS",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "BEFORE USING CI, ALTHOUGH DEVELOPERS WOULD WRITE UNIT TESTS, THEY OFTEN WOULD NOT BE RUN, AND DEVELOPERS DID NOT FEEL THAT WRITING TESTS WAS WORTH THE EFFORT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:14.879536",
+      "response_time_sec": 0.873,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1239,
+      "completion_tokens": 52,
+      "total_tokens": 1291,
+      "estimated_cost_usd": 0.001199
+    }
+  },
+  {
+    "paper_id": "C970",
+    "input": {
+      "claim": "PROJECTS WITH CI HAVE HIGHER QUALITY TESTS",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "E PROJECTS THAT USE CI RUN THEIR AUTOMATED TESTS MORE OFTEN, AND THE RESULTS ARE VISIBLE TO THE ENTIRE TEAM,"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:17.219575",
+      "response_time_sec": 0.84,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1220,
+      "completion_tokens": 52,
+      "total_tokens": 1272,
+      "estimated_cost_usd": 0.001184
+    }
+  },
+  {
+    "paper_id": "C971",
+    "input": {
+      "claim": "PROJECTS THAT USE CI HAVE HIGHER CODE QUALITY",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "USING CI LEADS TO HIGHER CODE QUALITY"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:19.543545",
+      "response_time_sec": 0.824,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1199,
+      "completion_tokens": 51,
+      "total_tokens": 1250,
+      "estimated_cost_usd": 0.001163
+    }
+  },
+  {
+    "paper_id": "C972",
+    "input": {
+      "claim": "PROJECTS WITH CI ARE MORE PRODUCTIVE",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "CI ALLOWS DEVELOPERS TO FOCUS MORE ON BEING PRODUCTIVE"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:21.775636",
+      "response_time_sec": 0.732,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1197,
+      "completion_tokens": 50,
+      "total_tokens": 1247,
+      "estimated_cost_usd": 0.001158
+    }
+  },
+  {
+    "paper_id": "C973",
+    "input": {
+      "claim": "CONTINUOUS INTEGRATION IS NOT APPLIED DURING CRITICAL PERIODS FOR SOME DOMAIN (FINANCIAL AND E-COMMERCE)",
+      "study_title": "Understanding similarities and differences in software development practices across domains",
+      "kind": "SURVEY",
+      "variables": "SURVEY ANALYSIS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH ORGANIZATIONAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.45
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH ORGANIZATIONAL CHALLENGES",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 18,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:25.466509",
+      "response_time_sec": 2.191,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH ORGANIZATIONAL CHALLENGES\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.45\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1203,
+      "completion_tokens": 46,
+      "total_tokens": 1249,
+      "estimated_cost_usd": 0.001146
+    }
+  },
+  {
+    "paper_id": "C974",
+    "input": {
+      "claim": "CI HELPS TO CATCH BUGS EARLY",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "NOT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 31,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:27.643079",
+      "response_time_sec": 0.676,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH DEFECTS REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1188,
+      "completion_tokens": 50,
+      "total_tokens": 1238,
+      "estimated_cost_usd": 0.00115
+    }
+  },
+  {
+    "paper_id": "C975",
+    "input": {
+      "claim": "MAKES THE TEAM LESS WORRIED ABOUT BREAKING THE BUILD",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "NOT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 12,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:29.913246",
+      "response_time_sec": 0.77,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1193,
+      "completion_tokens": 47,
+      "total_tokens": 1240,
+      "estimated_cost_usd": 0.001142
+    }
+  },
+  {
+    "paper_id": "C976",
+    "input": {
+      "claim": "PROJECTS THAT USE CI RELEASE MORE THAN TWICE AS OFTEN AS THOSE THAT DO NOT USE CI.",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "MSR",
+      "variables": "NUMBER RELEASES PER MONTH"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:32.263479",
+      "response_time_sec": 0.85,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1208,
+      "completion_tokens": 51,
+      "total_tokens": 1259,
+      "estimated_cost_usd": 0.00117
+    }
+  },
+  {
+    "paper_id": "C977",
+    "input": {
+      "claim": "CI BUILD STATUS CAN MAKE INTEGRATING PULL REQUESTS FASTER. WHEN USING CI, THE MEDIAN PULL REQUEST IS ACCEPTED 1.6 HOURS SOONER.",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "MSR",
+      "variables": "THE MEDIAN TIME TO ACCEPT THE PULL REQUESTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.92
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:34.507553",
+      "response_time_sec": 0.744,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.92\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1230,
+      "completion_tokens": 57,
+      "total_tokens": 1287,
+      "estimated_cost_usd": 0.001212
+    }
+  },
+  {
+    "paper_id": "C978",
+    "input": {
+      "claim": "CI ALLOWS RUNNING THE TESTS IN THE CLOUD, FREEING UP PERSONAL MACHINES",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "NOT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:36.692750",
+      "response_time_sec": 0.685,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1199,
+      "completion_tokens": 50,
+      "total_tokens": 1249,
+      "estimated_cost_usd": 0.001159
+    }
+  },
+  {
+    "paper_id": "C979",
+    "input": {
+      "claim": "CI HELPS DEPLOY MORE OFTEN",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "NOT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:38.962852",
+      "response_time_sec": 0.77,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1186,
+      "completion_tokens": 51,
+      "total_tokens": 1237,
+      "estimated_cost_usd": 0.001153
+    }
+  },
+  {
+    "paper_id": "C980",
+    "input": {
+      "claim": "CI MAKES INTEGRATION EASIER",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "NOT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 34,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:41.129498",
+      "response_time_sec": 0.666,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1185,
+      "completion_tokens": 53,
+      "total_tokens": 1238,
+      "estimated_cost_usd": 0.00116
+    }
+  },
+  {
+    "paper_id": "C981",
+    "input": {
+      "claim": "CI HELP TO TEST IN A REAL-WORLD ENVIRONMENT",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "NOT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 38,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:43.475606",
+      "response_time_sec": 0.846,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1192,
+      "completion_tokens": 51,
+      "total_tokens": 1243,
+      "estimated_cost_usd": 0.001158
+    }
+  },
+  {
+    "paper_id": "C982",
+    "input": {
+      "claim": "CI CAUSE LESS TIME DEBUGGING",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "N OT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:45.825681",
+      "response_time_sec": 0.85,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1188,
+      "completion_tokens": 56,
+      "total_tokens": 1244,
+      "estimated_cost_usd": 0.001174
+    }
+  },
+  {
+    "paper_id": "C983",
+    "input": {
+      "claim": "HELPS TO REJECT PROBLEMATIC PR",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "MSR",
+      "variables": "% PULL REQUESTS MERGED WITH CI INDICATOR"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:48.200179",
+      "response_time_sec": 0.874,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1195,
+      "completion_tokens": 57,
+      "total_tokens": 1252,
+      "estimated_cost_usd": 0.001184
+    }
+  },
+  {
+    "paper_id": "C984",
+    "input": {
+      "claim": "MORE QUICK PATCH AND RELEASING DELIVERIES",
+      "study_title": "Using continuous integration and automated test techniques for a robust C4ISR system",
+      "kind": "CASE STUDIES",
+      "variables": "LINES AND FILES GROWTH; # OF REVISIONS AND COMMITS PER DAY;"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:50.518288",
+      "response_time_sec": 0.818,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1209,
+      "completion_tokens": 51,
+      "total_tokens": 1260,
+      "estimated_cost_usd": 0.001171
+    }
+  },
+  {
+    "paper_id": "C985",
+    "input": {
+      "claim": "DECREASES BUILD BREAKAGE",
+      "study_title": "Using continuous integration and automated test techniques for a robust C4ISR system",
+      "kind": "CASE STUDIES",
+      "variables": "# OF BROKEN BUILDS BEFORE/AFTER CI AND TESTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "code_id": 39,
+      "theme_id": 1
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:52.944618",
+      "response_time_sec": 0.926,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH BUILD HEALTH\",\n  \"theme\": \"BUILD PATTERNS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1200,
+      "completion_tokens": 45,
+      "total_tokens": 1245,
+      "estimated_cost_usd": 0.00114
+    }
+  },
+  {
+    "paper_id": "C986",
+    "input": {
+      "claim": "SHORTEN THE BUILD TIME",
+      "study_title": "Using continuous integration and automated test techniques for a robust C4ISR system",
+      "kind": "CASE STUDIES",
+      "variables": "BUILD TIME"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASING IN BUILD TIME",
+      "theme": "BUILD PATTERNS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASING IN BUILD TIME",
+      "theme": "BUILD PATTERNS",
+      "code_id": 40,
+      "theme_id": 1
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:55.153340",
+      "response_time_sec": 0.708,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASING IN BUILD TIME\",\n  \"theme\": \"BUILD PATTERNS\",\n  \"confidence\": 0.95\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1186,
+      "completion_tokens": 49,
+      "total_tokens": 1235,
+      "estimated_cost_usd": 0.001145
+    }
+  },
+  {
+    "paper_id": "C987",
+    "input": {
+      "claim": "SHORTEN THE INTEGRATION TIME",
+      "study_title": "Using continuous integration and automated test techniques for a robust C4ISR system",
+      "kind": "CASE STUDIES",
+      "variables": "INTEGRATION TIME"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASING IN BUILD TIME",
+      "theme": "BUILD PATTERNS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 34,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:57.580001",
+      "response_time_sec": 0.926,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASING IN BUILD TIME\",\n  \"theme\": \"BUILD PATTERNS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1188,
+      "completion_tokens": 49,
+      "total_tokens": 1237,
+      "estimated_cost_usd": 0.001146
+    }
+  },
+  {
+    "paper_id": "C988",
+    "input": {
+      "claim": "INCREASES THE NUMBER OF AUTOMATED TESTS",
+      "study_title": "Using continuous integration and automated test techniques for a robust C4ISR system",
+      "kind": "CASE STUDIES",
+      "variables": "# OF TESTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:21:59.924597",
+      "response_time_sec": 0.844,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1191,
+      "completion_tokens": 52,
+      "total_tokens": 1243,
+      "estimated_cost_usd": 0.001161
+    }
+  },
+  {
+    "paper_id": "C990",
+    "input": {
+      "claim": "CI IS A DOMINANT FACTOR OF PULL REQUEST LATENCY.",
+      "study_title": "Wait for it: determinants of pull request evaluation latency on GitHub",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:02.346166",
+      "response_time_sec": 0.921,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1192,
+      "completion_tokens": 57,
+      "total_tokens": 1249,
+      "estimated_cost_usd": 0.001182
+    }
+  },
+  {
+    "paper_id": "C992",
+    "input": {
+      "claim": "CI  SPEED UP DEVELOPMENT PRACTICE",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "ENSURING QUALITY OF RELEASES; ENSURING BOTH, MINE AND OTHER PEOPLE CHANGES, DO NOT BREAK ANYTHING; HELP MAINTAIN QUALITY"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:04.593460",
+      "response_time_sec": 0.747,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1219,
+      "completion_tokens": 50,
+      "total_tokens": 1269,
+      "estimated_cost_usd": 0.001175
+    }
+  },
+  {
+    "paper_id": "C993",
+    "input": {
+      "claim": "IMPROVE SOFTWARE QUALITY",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "ENSURING QUALITY OF RELEASES; ENSURING BOTH, MINE AND OTHER PEOPLE CHANGES, DO NOT BREAK ANYTHING; HELP MAINTAIN QUALITY"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:06.765816",
+      "response_time_sec": 0.672,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1215,
+      "completion_tokens": 51,
+      "total_tokens": 1266,
+      "estimated_cost_usd": 0.001176
+    }
+  },
+  {
+    "paper_id": "C994",
+    "input": {
+      "claim": "CI SUPPORTS THE TEAM TO CATCH PROBLEMS AS EARLY AS POSSIBLE.",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "MUCH EASIER REGRESSION TESTING IN COMPLEX PROJECTS; PREVENT TO RELEASE A BUG SOFTWARE INTO PRODUCTION ENVIRONMENT;"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.78
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 31,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:09.113089",
+      "response_time_sec": 0.847,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.78\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1223,
+      "completion_tokens": 56,
+      "total_tokens": 1279,
+      "estimated_cost_usd": 0.001202
+    }
+  },
+  {
+    "paper_id": "C995",
+    "input": {
+      "claim": "ENFORCE AUTOMATED SOFTWARE TESTING",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "# OF PROJECTS WITH TESTS;  'MAKE SURE TESTS ARE ALWAYS RUN, SINCEHUMANS CAN BE INCONSISTENT ON THAT';"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:11.349169",
+      "response_time_sec": 0.736,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1219,
+      "completion_tokens": 52,
+      "total_tokens": 1271,
+      "estimated_cost_usd": 0.001183
+    }
+  },
+  {
+    "paper_id": "C996",
+    "input": {
+      "claim": "ENABLE  CROSS-PLATFORM TESTING",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "“MOSTLY TO TEST SOFTWARE ON LINUX, TO WHICH I RARELY HAVE ACCESS.”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 38,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:13.764008",
+      "response_time_sec": 0.915,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1205,
+      "completion_tokens": 51,
+      "total_tokens": 1256,
+      "estimated_cost_usd": 0.001168
+    }
+  },
+  {
+    "paper_id": "C998",
+    "input": {
+      "claim": "IMPROVE COMMUNICATION",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "“[IMPROVING] COOPERATION WITH OTHER ENGINEERS.”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:15.935704",
+      "response_time_sec": 0.671,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1190,
+      "completion_tokens": 48,
+      "total_tokens": 1238,
+      "estimated_cost_usd": 0.001144
+    }
+  },
+  {
+    "paper_id": "C999",
+    "input": {
+      "claim": "CI REDUCES MANUAL WORK",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A WORKLOAD REDUCTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 24,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:18.256629",
+      "response_time_sec": 0.821,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A WORKLOAD REDUCTION\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1184,
+      "completion_tokens": 49,
+      "total_tokens": 1233,
+      "estimated_cost_usd": 0.001143
+    }
+  },
+  {
+    "paper_id": "C1000",
+    "input": {
+      "claim": "CI IMPROVES THE DEVELOPER'S CONFIDENCE TO PERFORM THE REQUIRED CODE CHANGES.",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 12,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:20.447231",
+      "response_time_sec": 0.69,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1198,
+      "completion_tokens": 47,
+      "total_tokens": 1245,
+      "estimated_cost_usd": 0.001146
+    }
+  },
+  {
+    "paper_id": "C1001",
+    "input": {
+      "claim": "CI IS ASSOCIATED TO A FALSE SENSE OF CONFIDENCE (AS A SITUATION WHERE DEVELOPERS BLINDLY TRUST THE TESTS).",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI MAY GENERATE A FALSE SENSE OF CONFIDENCE",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI MAY GENERATE A FALSE SENSE OF CONFIDENCE",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 11,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:22.647260",
+      "response_time_sec": 0.7,
+      "raw_response": "```json\n{\n  \"code\": \"CI MAY GENERATE A FALSE SENSE OF CONFIDENCE\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1206,
+      "completion_tokens": 50,
+      "total_tokens": 1256,
+      "estimated_cost_usd": 0.001165
+    }
+  },
+  {
+    "paper_id": "C1002",
+    "input": {
+      "claim": "CI REQUIRES ADDITIONAL EFFORT",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "(EG, “NEED MORE PEOPLE SHARING/DOCUMENTING AND HELPING RESOLVE PROBLEMS”, REQUIRED TO, FOR INSTANCE, “MAKING SURE BUILDS PASS .”)"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 14,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:24.921487",
+      "response_time_sec": 0.774,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1225,
+      "completion_tokens": 49,
+      "total_tokens": 1274,
+      "estimated_cost_usd": 0.001176
+    }
+  },
+  {
+    "paper_id": "C1003",
+    "input": {
+      "claim": "CI IMPLY MONETARY COSTS",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.45
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 14,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:27.203107",
+      "response_time_sec": 0.781,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH TECHNICAL CHALLENGES\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.45\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1185,
+      "completion_tokens": 46,
+      "total_tokens": 1231,
+      "estimated_cost_usd": 0.001132
+    }
+  },
+  {
+    "paper_id": "C1004",
+    "input": {
+      "claim": "CI MAY BE CHALLENGING BY FLAKY TESTS (EG, “TESTS CAN SOMETIMES BE FLAKY, WHICH IS FRUSTRATING ”)",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI MAY GENERATE A FALSE SENSE OF CONFIDENCE",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 11,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:29.567000",
+      "response_time_sec": 0.864,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH TECHNICAL CHALLENGES\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1212,
+      "completion_tokens": 46,
+      "total_tokens": 1258,
+      "estimated_cost_usd": 0.001154
+    }
+  },
+  {
+    "paper_id": "C1005",
+    "input": {
+      "claim": "CD DECREASES THE DEFECT REPORT",
+      "study_title": "Continuous Delivery? Easy! Just Change Everything (Well, Maybe It Is Not That Easy)",
+      "kind": "ACTION RESEARCH",
+      "variables": "DEFECT REPORTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH ISSUES REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 29,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:31.779633",
+      "response_time_sec": 0.712,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH ISSUES REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1197,
+      "completion_tokens": 49,
+      "total_tokens": 1246,
+      "estimated_cost_usd": 0.001154
+    }
+  },
+  {
+    "paper_id": "C1007",
+    "input": {
+      "claim": "CI BROUGHT INCREASED VISIBILITY ENABLING GREATER COMMUNICATION AMONG THE RELEVANT STAKEHOLDERS.",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.78
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:33.957537",
+      "response_time_sec": 0.678,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.78\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1213,
+      "completion_tokens": 48,
+      "total_tokens": 1261,
+      "estimated_cost_usd": 0.001162
+    }
+  },
+  {
+    "paper_id": "C1008",
+    "input": {
+      "claim": "CI MAKES CAUGHT ISSUES EARLIER EVEN IN UNIT AND CSCI LEVEL TESTS",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 31,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:36.179534",
+      "response_time_sec": 0.722,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1213,
+      "completion_tokens": 56,
+      "total_tokens": 1269,
+      "estimated_cost_usd": 0.001194
+    }
+  },
+  {
+    "paper_id": "C1010",
+    "input": {
+      "claim": "CI BUILT A SOLID FOUNDATION FOR QUANTITATIVE EVALUATION OF SOFTWARE PROGRESS",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.72
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 23,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:38.505360",
+      "response_time_sec": 0.825,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.72\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1209,
+      "completion_tokens": 50,
+      "total_tokens": 1259,
+      "estimated_cost_usd": 0.001167
+    }
+  },
+  {
+    "paper_id": "C1012",
+    "input": {
+      "claim": "CI PROVIDED DETAILED INSIGHT FROM MANAGEMENT PERSPECTIVE",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A FEED BACK FREQUENCY INCREASE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.45
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 23,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:40.710417",
+      "response_time_sec": 0.705,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A FEED BACK FREQUENCY INCREASE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.45\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1202,
+      "completion_tokens": 51,
+      "total_tokens": 1253,
+      "estimated_cost_usd": 0.001166
+    }
+  },
+  {
+    "paper_id": "C1013",
+    "input": {
+      "claim": "CI INCREASED SOFTWARE QUALITY",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TO FAVOR CONTINUOUS REFACTORING",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.45
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:43.029821",
+      "response_time_sec": 0.819,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH TO FAVOR CONTINUOUS REFACTORING\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.45\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1197,
+      "completion_tokens": 53,
+      "total_tokens": 1250,
+      "estimated_cost_usd": 0.00117
+    }
+  },
+  {
+    "paper_id": "C1014",
+    "input": {
+      "claim": "CI DECREASED TEAM WORKLOAD FOR PAPERWORK",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A WORKLOAD REDUCTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A WORKLOAD REDUCTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 15,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:45.336983",
+      "response_time_sec": 0.807,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH A WORKLOAD REDUCTION\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1203,
+      "completion_tokens": 49,
+      "total_tokens": 1252,
+      "estimated_cost_usd": 0.001158
+    }
+  },
+  {
+    "paper_id": "C1015",
+    "input": {
+      "claim": "CI BASED PROCESS AUTOMATION LETS THE TEST AND QA ENGINEERS TO BE INVOLVED IN THE DEVELOPMENT, CONTINUOUSLY",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "claude-haiku-4-5-20251001",
+      "model_short": "claude",
+      "temperature": 0.0,
+      "run_id": 7
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T00:22:47.873867",
+      "response_time_sec": 1.037,
+      "raw_response": "```json\n{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.75\n}\n```",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1218,
+      "completion_tokens": 50,
+      "total_tokens": 1268,
+      "estimated_cost_usd": 0.001174
+    }
+  }
+]

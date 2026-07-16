@@ -1,0 +1,16 @@
+model_short,level,total,ok,rate
+claude,L1,1130,1130,1.0
+claude,L2,1130,1130,1.0
+claude,L3,1130,1130,1.0
+claude,L4,1130,1130,1.0
+claude,L5,1130,1130,1.0
+deepseek,L1,1130,1130,1.0
+deepseek,L2,1130,1130,1.0
+deepseek,L3,1130,1130,1.0
+deepseek,L4,1130,1130,1.0
+deepseek,L5,1130,1130,1.0
+openai,L1,1130,1130,1.0
+openai,L2,1130,1130,1.0
+openai,L3,1130,1130,1.0
+openai,L4,1130,1130,1.0
+openai,L5,1130,1130,1.0

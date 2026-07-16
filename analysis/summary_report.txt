@@ -1,0 +1,73 @@
+=================================================================
+SBES 2026 — Deductive Coding of CI Claims
+Summary Report  (n=113, L1–L5, 3 models)
+=================================================================
+
+Records : 16950  |  Claims: 113
+Models  : claude, deepseek, openai
+Levels  : L1, L2, L3, L4, L5
+Runs    : [np.int64(1), np.int64(2), np.int64(3), np.int64(4), np.int64(5), np.int64(6), np.int64(7), np.int64(8), np.int64(9), np.int64(10)]
+
+Note: Multi-label claims (n=12) excluded. See paper limitations.
+Note: F1-Macro is the primary metric (31 classes, imbalanced).
+
+── F1-Macro (PRIMARY) — mean across runs ──
+level         L1      L2      L3      L4      L5
+model                                           
+claude    0.8510  0.7912  0.7986  0.7810  0.7418
+deepseek  0.7675  0.7622  0.7678  0.7449  0.7523
+openai    0.5970  0.5943  0.5739  0.5697  0.5474
+
+── Accuracy — mean across runs ──
+level         L1      L2      L3      L4      L5
+model                                           
+claude    0.8354  0.8035  0.7991  0.8000  0.7920
+deepseek  0.7788  0.7699  0.7717  0.7434  0.7602
+openai    0.5832  0.6000  0.5558  0.5549  0.5531
+
+── Cohen's Kappa (Model vs Gold, code) ──
+level         L1      L2      L3      L4      L5
+model_a                                         
+claude    0.8275  0.8017  0.7912  0.7911  0.7892
+deepseek  0.7679  0.7589  0.7606  0.7310  0.7488
+openai    0.7216  0.7492  0.7329  0.6928  0.6775
+
+── Context Gain L1→L5 (F1-Macro) ──
+   model     L1     L5  abs_gain  rel_gain_pct best_level
+  claude 0.8510 0.7418   -0.1092        -12.83         L1
+deepseek 0.7675 0.7523   -0.0152         -1.98         L3
+  openai 0.5970 0.5474   -0.0496         -8.31         L1
+
+── Statistical Significance ──
+   model     test     comparison  statistic  p_value  significant_p05  effect_r  cliffs_delta effect_label  holm_adjusted_p    n significant_holm
+  claude Friedman L1_L2_L3_L4_L5      34.40   0.0000             True       NaN           NaN         None              NaN  NaN              NaN
+  claude Wilcoxon       L1_vs_L5       0.00   0.0020             True    0.0000          1.00        large           0.0120 10.0             True
+  claude Wilcoxon       L1_vs_L2       0.00   0.0020             True    0.0000          1.00        large           0.0100 10.0             True
+  claude Wilcoxon       L1_vs_L3       0.00   0.0020             True    0.0000          1.00        large           0.0080 10.0             True
+  claude Wilcoxon       L1_vs_L4       0.00   0.0020             True    0.0000          1.00        large           0.0060 10.0             True
+  claude Wilcoxon       L4_vs_L5       1.00   0.0039             True    0.0510          0.80        large           0.0039 10.0             True
+  claude Wilcoxon       L2_vs_L5       0.00   0.0020             True    0.0000          1.00        large           0.0040 10.0             True
+deepseek Friedman L1_L2_L3_L4_L5      38.72   0.0000             True       NaN           NaN         None              NaN  NaN              NaN
+deepseek Wilcoxon       L1_vs_L5       0.00   0.0020             True    0.0000          1.00        large           0.0120 10.0             True
+deepseek Wilcoxon       L1_vs_L2       0.00   0.0020             True    0.0000          1.00        large           0.0100 10.0             True
+deepseek Wilcoxon       L1_vs_L3      19.00   0.4648            False    0.9683          0.60        large           0.0040 10.0             True
+deepseek Wilcoxon       L1_vs_L4       0.00   0.0020             True    0.0000          1.00        large           0.0080 10.0             True
+deepseek Wilcoxon       L4_vs_L5       0.00   0.0020             True    0.0000         -1.00        large           0.0060 10.0             True
+deepseek Wilcoxon       L2_vs_L5       0.00   0.0020             True    0.0000          1.00        large           0.0040 10.0             True
+  openai Friedman L1_L2_L3_L4_L5      19.84   0.0005             True       NaN           NaN         None              NaN  NaN              NaN
+  openai Wilcoxon       L1_vs_L5       0.00   0.0020             True    0.0000          0.98        large           0.0120 10.0             True
+  openai Wilcoxon       L1_vs_L2      26.00   0.9219            False    1.3251          0.04   negligible           0.0120 10.0             True
+  openai Wilcoxon       L1_vs_L3       4.00   0.0137             True    0.2039          0.66        large           0.0120 10.0             True
+  openai Wilcoxon       L1_vs_L4       6.00   0.0273             True    0.3058          0.66        large           0.0120 10.0             True
+  openai Wilcoxon       L4_vs_L5       7.00   0.0371             True    0.3568          0.57        large           0.0120 10.0             True
+  openai Wilcoxon       L2_vs_L5       1.00   0.0039             True    0.0510          0.80        large           0.0120 10.0             True
+
+── Model Rank Summary ──
+           model  mean_f1_macro best_level  stability_sd  total_cost_usd  cost_per_correct  rank_overall
+   DeepSeek Chat         0.7590         L3        0.0009         1.01049          0.000234          1.33
+Claude Haiku 4.5         0.7927         L1        0.0128         6.52864          0.001435          2.00
+     GPT-4o Mini         0.5764         L1        0.0211         1.10537          0.000344          2.67
+
+=================================================================
+End of report
+=================================================================

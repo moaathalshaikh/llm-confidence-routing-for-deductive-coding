@@ -1,0 +1,4861 @@
+[
+  {
+    "paper_id": "C891",
+    "input": {
+      "claim": "CI BRING CHALLENGES WHEN IMPLEMENTING IN PRACTICE",
+      "study_title": "Challenges When Adopting Continuous Integration: A Case Study",
+      "kind": "CASE STUDIES",
+      "variables": "MINDSET; TOOLS & INFRASTRCUTURE; TESTING; DOMAIN APPLICABILITY; UNDERSTANDING; CODE DEPENDENCIES; SOFTWARE REQUIREMENTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 26,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:06:55.307606",
+      "response_time_sec": 1.102,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH TECHNICAL CHALLENGES\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1224,
+      "completion_tokens": 39,
+      "total_tokens": 1263,
+      "estimated_cost_usd": 0.000182
+    }
+  },
+  {
+    "paper_id": "C892",
+    "input": {
+      "claim": "CI INCREASES NORMALIZED COMMIT FREQUENCY [FOR OSS PROJECTS]",
+      "study_title": "Characterizing the influence of continuous integration: empirical results from 250+ open source and proprietary projects",
+      "kind": "MSR",
+      "variables": "COMMIT SIZE"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 41,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:06:57.905234",
+      "response_time_sec": 1.097,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1201,
+      "completion_tokens": 41,
+      "total_tokens": 1242,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C893",
+    "input": {
+      "claim": "CI INCREASES COMMIT SIZE [FOR OSS PROJECTS]",
+      "study_title": "Characterizing the influence of continuous integration: empirical results from 250+ open source and proprietary projects",
+      "kind": "MSR",
+      "variables": "COMMIT SIZE"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 41,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:00.480834",
+      "response_time_sec": 1.075,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1196,
+      "completion_tokens": 41,
+      "total_tokens": 1237,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C894",
+    "input": {
+      "claim": "THE MORE CONTINUOUS INTEGRATION IS PRESENT WITHIN THE SYSTEMS DEVELOPMENT PROCESS, THE GREATER THE STAKEHOLDER SATISFACTION",
+      "study_title": "Agile systems development and stakeholder satisfaction: a South African empirical study",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN SATISFACTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN SATISFACTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 17,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:03.105128",
+      "response_time_sec": 1.124,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN SATISFACTION\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1206,
+      "completion_tokens": 44,
+      "total_tokens": 1250,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C895",
+    "input": {
+      "claim": "CI USAGE IS ASSOCIATED WITH HIGH CLASS TEST COVERAGE",
+      "study_title": "Analyzing the effects of test driven development in GitHub",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:05.686098",
+      "response_time_sec": 1.08,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1186,
+      "completion_tokens": 41,
+      "total_tokens": 1227,
+      "estimated_cost_usd": 0.000178
+    }
+  },
+  {
+    "paper_id": "C896",
+    "input": {
+      "claim": "LACK OF SUPPORT FOR NEEDED TECHNOLOGY IS ASSOCIATED WITH AN INCREASE RISK OF ABANDONING",
+      "study_title": "A conceptual replication of continuous integration pain points in the context of Travis CI",
+      "kind": "MSR+SURVEY",
+      "variables": "EXPOSURE TO LEAVERS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 26,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:08.281664",
+      "response_time_sec": 1.095,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH TECHNICAL CHALLENGES\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1211,
+      "completion_tokens": 39,
+      "total_tokens": 1250,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C897",
+    "input": {
+      "claim": "CI REDUCES THE CHECKIN OVERHEAD",
+      "study_title": "A Hundred Days of Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "CHECK-IN OVERHEAD (WORK TIME; IN OTHER WORDS DEVELOPERS DO ALL THE WORK THE CI SERVER IS DOING BEFORE EACH CHECK-IN\")\""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A WORKLOAD REDUCTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 15,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:10.882871",
+      "response_time_sec": 1.101,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1208,
+      "completion_tokens": 44,
+      "total_tokens": 1252,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C898",
+    "input": {
+      "claim": "THE STUDY ALSO INDICATES THAT CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY, AS IN MANY PULL REQUESTS DEVELOPERS HAVE TO SOLVE NON-TRIVIAL CI CONFIGURATION ISSUES.",
+      "study_title": "A Study on the Interplay between Pull Request Review and Continuous Integration Builds",
+      "kind": "MSR+SURVEY",
+      "variables": "(I) THE NUMBER OF BUILDS OVER THE PR DISCUSSION; (II) THE PERCENTAGE OF FAILED BUILDS DURING THE PR DISCUSSION OVER THE TOTAL NUMBER OF BUILDS;(III) THE STATUS OF THE FIRST BUILD, I.E., WHEN THE PR IS SUBMITTED; AND (IV) THE STATUS OF THE LAST BUILDAGE = PR DURATION FROM ITS CREATION CONTRIBUTION RATE = % OF AUTHORS' COMMITS BEFORE THE PRACCEPT RATE = % OF PREVIOUSLY MERGED PRS FROM THE SAME AUTHORADDITIONS = # OF LINES ADDED IN THE PR COMMITSDELETIONS = # OF LINES DELETED IN THE PR COMMITSCOMMITS = # OF COMMITS INCLUDED IN THE PRCHANGED FILES =  # OF FILES CHANGED UPON OPENING THE PRCOMMENTS =  # OF DISCUSSION COMMENTSREVIEW COMMENT = # OF COMMENTS IN THE PR ATTACHED TO CODECORE MEMBER = WHETHER THE PR AUTHOR IS A PROJECT MEMBERINTRA-BRANCH = WHETHER SOURCE AND TARGET PR REPOS MATCHCONTAINS FIX. = WHETHER THE PR AIMS AT FIXING AN ISSUELAST COMM. = MENTION = WHETHER THE LAST COMMIT MENTIONS A USERHAS TEST CODE = WHETHER TEST CASES ARE INCLUDED IN THE PR"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 14,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:13.529437",
+      "response_time_sec": 1.146,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1525,
+      "completion_tokens": 41,
+      "total_tokens": 1566,
+      "estimated_cost_usd": 0.000225
+    }
+  },
+  {
+    "paper_id": "C899",
+    "input": {
+      "claim": "CI INCREASES NORMALIZED COLLABORATION AMOUNT BETWEEN PROGRAMMERS [OSS AND PROPRIETARY PROJECTS]",
+      "study_title": "Characterizing the influence of continuous integration: empirical results from 250+ open source and proprietary projects",
+      "kind": "MSR",
+      "variables": "NORMALIZED MEDIAN IN-DEGREE (NMID) - IT IS BASED ON GRAPH, USING THE MODIFICATION INFORMATION"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:16.162767",
+      "response_time_sec": 1.133,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1234,
+      "completion_tokens": 41,
+      "total_tokens": 1275,
+      "estimated_cost_usd": 0.000184
+    }
+  },
+  {
+    "paper_id": "C901",
+    "input": {
+      "claim": "CI INCREASES NORMALIZED BUGS RESOLVED [OSS PROJECTS]",
+      "study_title": "Characterizing the influence of continuous integration: empirical results from 250+ open source and proprietary projects",
+      "kind": "MSR",
+      "variables": "NORMALIZED CLOSED BUGS (NCB)"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 29,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:18.817479",
+      "response_time_sec": 1.154,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH DEFECTS REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1209,
+      "completion_tokens": 41,
+      "total_tokens": 1250,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C903",
+    "input": {
+      "claim": "CI ENCOURAGES DEVELOPERS TO GIVE VERY HIGH PRIORITY TO FIX BUILD BREAKAGES.",
+      "study_title": "Continuous Delivery Practices in a Large Financial Organization",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "code_id": 39,
+      "theme_id": 1
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:21.399469",
+      "response_time_sec": 1.081,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH BUILD HEALTH\",\n  \"theme\": \"BUILD PATTERNS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1194,
+      "completion_tokens": 36,
+      "total_tokens": 1230,
+      "estimated_cost_usd": 0.000177
+    }
+  },
+  {
+    "paper_id": "C904",
+    "input": {
+      "claim": "CD INCREASES THE THROUGHPUT PER  DEVELOPER",
+      "study_title": "Continuous Delivery? Easy! Just Change Everything (Well, Maybe It Is Not That Easy)",
+      "kind": "ACTION RESEARCH",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:24.039560",
+      "response_time_sec": 1.139,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1194,
+      "completion_tokens": 44,
+      "total_tokens": 1238,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C905",
+    "input": {
+      "claim": "DUVALL’S SEVEN CORNER STONES OF CONTINUOUS INTEGRATION IS DIFFICULT TO BE APPLIED FOR EMBEDDED SYSTEMS",
+      "study_title": "Continuous Integration Applied to Software-Intensive Embedded Systems – Problems and Experiences",
+      "kind": "CASE STUDIES",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 26,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:26.621658",
+      "response_time_sec": 1.081,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH TECHNICAL CHALLENGES\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1211,
+      "completion_tokens": 39,
+      "total_tokens": 1250,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C906",
+    "input": {
+      "claim": "CONTINUOUS INTEGRATION INCREASES DEVELOPMENT EFFICIENCY",
+      "study_title": "Continuous Integration for Web-Based Software Infrastructures: Lessons Learned on the webinos Project",
+      "kind": "ACTION RESEARCH",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:29.347790",
+      "response_time_sec": 1.225,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1195,
+      "completion_tokens": 44,
+      "total_tokens": 1239,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C907",
+    "input": {
+      "claim": "CONTINUOUS INTEGRATION INCREASES THE CONFIDENCE ABOUT THE QUALITY.",
+      "study_title": "Continuous Integration for Web-Based Software Infrastructures: Lessons Learned on the webinos Project",
+      "kind": "ACTION RESEARCH",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 12,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:31.929614",
+      "response_time_sec": 1.081,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1198,
+      "completion_tokens": 41,
+      "total_tokens": 1239,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C908",
+    "input": {
+      "claim": "CI -> BENEFITS SOFTWARE DEVELOPMENT OF LARGE-SCALE SYSTEMS",
+      "study_title": "Continuous Integration Impediments in Large-Scale Industry Projects",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 27,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:34.626052",
+      "response_time_sec": 1.195,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1190,
+      "completion_tokens": 38,
+      "total_tokens": 1228,
+      "estimated_cost_usd": 0.000177
+    }
+  },
+  {
+    "paper_id": "C909",
+    "input": {
+      "claim": "CI IS THE RIGHT CONTEXT FOR MAKING CONTINUOUS REFACTORING POSSIBLE TO APPLY.( CONTINUOUS REFACTORING SHOULD BE INCLUDED AMONG THE PATTERNS TO FOLLOW IN ORDER TO FULLY BENEFIT FROM THE ADOPTION OF CI. )",
+      "study_title": "Continuous Refactoring in CI: A Preliminary Study on the Perceived Advantages and Barriers",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TO FAVOR CONTINUOUS REFACTORING",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH TO FAVOR CONTINUOUS REFACTORING",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 37,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:37.391841",
+      "response_time_sec": 1.265,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH TO FAVOR CONTINUOUS REFACTORING\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1240,
+      "completion_tokens": 45,
+      "total_tokens": 1285,
+      "estimated_cost_usd": 0.000186
+    }
+  },
+  {
+    "paper_id": "C910",
+    "input": {
+      "claim": "CI -> DEVELOPERS TEND TO ASSESS CODE QUALITY CONTINUOUSLY",
+      "study_title": "Continuous Refactoring in CI: A Preliminary Study on the Perceived Advantages and Barriers",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:40.134794",
+      "response_time_sec": 1.242,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1197,
+      "completion_tokens": 41,
+      "total_tokens": 1238,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C911",
+    "input": {
+      "claim": "CONTINUOUS INTEGRATION ENABLES STEPWISE TRANSITION FROM WATERFALL TO AGILE",
+      "study_title": "Contrasting Big Bang with Continuous Integration Through Defect Reports",
+      "kind": "CASE STUDIES",
+      "variables": "FROM FEEDBACK LOOPS STRETCHING SEVERAL WEEKS, THE DEPARTMENT COULD NOW INTEGRATE THE LATEST CHANGES IN A MATTER OF HOURS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI FACILITATES THE TRANSITION TO AGILE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI FACILITATES THE TRANSITION TO AGILE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 25,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:42.695643",
+      "response_time_sec": 1.06,
+      "raw_response": "{\n  \"code\": \"CI FACILITATES THE TRANSITION TO AGILE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1237,
+      "completion_tokens": 38,
+      "total_tokens": 1275,
+      "estimated_cost_usd": 0.000184
+    }
+  },
+  {
+    "paper_id": "C912",
+    "input": {
+      "claim": "THE INTEGRATION TOOL-CHAIN ENABLED SHORTER FEEDBACK CYCLES",
+      "study_title": "Contrasting Big Bang with Continuous Integration Through Defect Reports",
+      "kind": "CASE STUDIES",
+      "variables": "FROM FEEDBACK LOOPS STRETCHING SEVERAL WEEKS, THE DEPARTMENT COULD NOW INTEGRATE THE LATEST CHANGES IN A MATTER OF HOURS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A FEED BACK FREQUENCY INCREASE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A FEED BACK FREQUENCY INCREASE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 28,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:45.249136",
+      "response_time_sec": 1.053,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A FEED BACK FREQUENCY INCREASE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1235,
+      "completion_tokens": 43,
+      "total_tokens": 1278,
+      "estimated_cost_usd": 0.000185
+    }
+  },
+  {
+    "paper_id": "C913",
+    "input": {
+      "claim": "WHEN EVERYTHING IS A MOVING TARGET, CONTINUOUS INTEGRATION CAN PROVIDE STABLE GROUND",
+      "study_title": "Contrasting Big Bang with Continuous Integration Through Defect Reports",
+      "kind": "CASE STUDIES",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 23,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:47.861584",
+      "response_time_sec": 1.112,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1200,
+      "completion_tokens": 43,
+      "total_tokens": 1243,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C914",
+    "input": {
+      "claim": "CI IS A DOMINANT FACTOR OF PULL-REQUEST ACCEPTANCE AND LATENCY. (THE PULL-REQUESTS WITH CI FAILURES HAVE ABOUT 89.6% GREATER ODDS OF BEING REJECTED EVENTUALLY.; FOR PULL-REQUEST LATENCY, THE CI RUNNING TIME IS HIGHLY SIGNIFICANT AND COVERS MORE THAN 21% OF THE VARIANCE EXPLAINED.)",
+      "study_title": "Determinants of pull-based development in the context of continuous integration",
+      "kind": "CONTROLLED EXP.",
+      "variables": "- PR MERGED: BINARY, WHETHER THE PR HAS BEEN MERGED INTO THE PROJECT’S CODE BASE. - PR LATENCY: THE TIME IN MINUTES INTERVAL BETWEEN PULL-REQUEST CREATION AND CLOSING DATE. IN CASE OF “REOPENED” PULL-REQUESTS, WE ONLY CONSIDERED THE DATE WHEN THEY WERE FIRST CLOSED.- PROJECT AGE: THE TIME FROM PROJECT CREATION ON GITHUB TO THE PULL-REQUEST CREATION IN MONTHS, - TEAM SIZE: THE NUMBER OF ACTIVE INTEGRATORS, WHO DECIDE WHETHER TO ACCEPT THE NEW CONTRIBUTIONS, DURING THE THREE MONTHS PRIOR TO PULL-REQUEST CREATION. - AREA HOTNESS: THE MEDIAN OF THE NUMBER OF COMMITS TO FILES TOUCHED BY THE PULL-REQUEST RELATIVE TO ALL PROJECT COMMITS DURING THE LAST THREE MONTHS. - CHURN: TOTAL NUMBER OF LINES ADDED AND DELETED BY THE PULL-REQUEST. BIGGER CODE CHANGES MAY BE MORE COMPLEX, AND REQUIRE LONGER CODE EVALUATION.- N COMMITS: TOTAL NUMBER OF COMMITS IN THE PULL-REQUEST, WHICH IS A SIGNAL OF PULL-REQUEST SIZE. TRAVIS-CI TESTS EACH COMMIT SEPARATELY. - DESCRIPTION COMPLEXITY: TOTAL NUMBER OF WORDS IN THE PULL-REQUEST TITLE AND DESCRIPTION. LONGER DESCRIPTIONS MAY INDICATE HIGHER COMPLEXITY (LONGER EVALUATION), OR BETTER DOCUMENTATION WHICH CAN BE FACILITATE EVALUATION PROCESS AKIN TO ISSUE REPORTS [32].- TEST INCLUSION: BINARY, MEASURING IF THE PULL-REQUEST TOUCHED AT LEAST ONE TEST FILE.  - CORE TEAM: BINARY, WHETHER THE SUBMITTER IS MEMBER OF CORE DEVELOPMENT TEAM. THERE IS A RECOGNIZED STRUCTURE, I.E., “CORE” AND “PERIPHERY”, WITH OPEN SOURCE SOFTWARE PROJECTS. CORE DEVELOPERS WHO MAKE CONTRIBUTIONS TO THEIR OWN PROJECT WOULD BE MORE LIKELY TO HAVE THEIR CONTRIBUTIONS ACCEPTED BY FELLOW PROJECT INTEGRATORS.- SOCIAL STRENGTH: THE FRACTION OF TEAM MEMBERS THAT INTERACTED WITH THE SUBMITTER IN THE LAST THREE MONTHS. INTEGRATORS MAY FAVOR AND TRUST CONTRIBUTORS MORE STRONGLY CONNECTED TO THEM. - N FOLLOWERS: THE NUMBER OF GITHUB USERS FOLLOWING THE INCOMING PULL-REQUEST’S SUBMITTER AT THE TIME OF CREATION, AS A MEASURE OF SOCIAL REPUTATION. - N COMMENTS: TOTAL NUMBER OF OVERALL AND INLINE COMMENTS PART OF A PULL-REQUEST DISCUSSION. PULL-REQUESTS WITH LOTS OF COMMENTS TEND TO SIGNAL CONTROVERSY [10].- FIRST HUMAN RESPONSE: THE TIME INTERVAL IN MINUTES FROM PULL-REQUEST CREATION TO THE FIRST RESPONSE BY REVIEWERS, WHICH CAN BE INDICATED AS A MEASURE OF THE PROJECT TEAM’S RESPONSIVENESS.- WORKLOAD: TOTAL NUMBER OF PULL-REQUESTS STILL OPEN IN EACH PROJECT AT CURRENT PULL-REQUEST CREATION TIME. IT IS REASONABLE TO ASSUME THAT IF THE WORKLOADS OF INTEGRATORS ARE HEAVY, THE NEW RECEIVED PULL-REQUEST WOULD NEED MORE TIME TO BE PROCESSED.- INTEGRATOR   AVAILABILITY : THE MINIMUM NUMBER OF HOURS (0 . . . 23) UNTIL EITHER OF THE TOP TWO INTEGRATORS (BY NUMBER OF PULL-REQUESTS HANDLED THE LAST THREE MONTHS) ARE ACTIVE, ON AVERAGE (BASED ON ACTIVITY IN THE LAST THREE MONTHS), DURING 24 H.  - FRIDAY EFFECT: BINARY, TRUE IF THE PULL-REQUEST ARRIVES ON FRIDAY. - CI FAILURE: A BINARY VARIABLE TO ENCODE THE PRESENCE OF BUILD&TEST FAILURES WHILE RUNNING TRAVIS-CI.- CI LATENCY: THE TIME INTERVAL IN MINUTES FROM PULL-REQUEST CREATION TO THE LAST COMMIT TESTED BY CI."
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:50.638239",
+      "response_time_sec": 1.276,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 2208,
+      "completion_tokens": 48,
+      "total_tokens": 2256,
+      "estimated_cost_usd": 0.000323
+    }
+  },
+  {
+    "paper_id": "C915",
+    "input": {
+      "claim": "CI INCREASES THE PROPORTION OF SUCCESSFUL BUILDS",
+      "study_title": "Effect of Continuous Integration on Build Health in Undergraduate Team Projects",
+      "kind": "CONTROLLED EXP.",
+      "variables": "BUILD STATUS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "code_id": 39,
+      "theme_id": 1
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:53.207672",
+      "response_time_sec": 1.069,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH BUILD HEALTH\",\n  \"theme\": \"BUILD PATTERNS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1192,
+      "completion_tokens": 36,
+      "total_tokens": 1228,
+      "estimated_cost_usd": 0.000177
+    }
+  },
+  {
+    "paper_id": "C916",
+    "input": {
+      "claim": "CI IMPROVES THE CAPACITY TO RELEASE CLEAN CODE (CLEAN RELEASE BUILDS)",
+      "study_title": "Effect of Continuous Integration on Build Health in Undergraduate Team Projects",
+      "kind": "CONTROLLED EXP.",
+      "variables": "BUILD STATUS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.65
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "code_id": 39,
+      "theme_id": 1
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:55.762535",
+      "response_time_sec": 1.054,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.65\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1200,
+      "completion_tokens": 38,
+      "total_tokens": 1238,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C917",
+    "input": {
+      "claim": "TDD AND CI REDUCES THE DEFECTS COMPARING WITH NO CI",
+      "study_title": "Effectiveness of Test-Driven Development and Continuous Integration: A Case Study",
+      "kind": "CASE STUDIES",
+      "variables": "THE DURATION BETWEEN THE DISCOVERY AND CLOSURE OF DEFECTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 29,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:07:58.680289",
+      "response_time_sec": 1.417,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH DEFECTS REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1209,
+      "completion_tokens": 41,
+      "total_tokens": 1250,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C918",
+    "input": {
+      "claim": "TDD AND CI HELPED IN REDUCING THE TIME TO FIND AND FIX THE DEFECTS",
+      "study_title": "Effectiveness of Test-Driven Development and Continuous Integration: A Case Study",
+      "kind": "CASE STUDIES",
+      "variables": "THE DURATION BETWEEN THE DISCOVERY AND CLOSURE OF DEFECTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 31,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:01.498470",
+      "response_time_sec": 1.318,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1213,
+      "completion_tokens": 47,
+      "total_tokens": 1260,
+      "estimated_cost_usd": 0.000183
+    }
+  },
+  {
+    "paper_id": "C919",
+    "input": {
+      "claim": "CI -> IMPROVES COMMUNICATION INTRA-TEAM",
+      "study_title": "Experienced benefits of continuous integration in industry software product development: A case study",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:04.061519",
+      "response_time_sec": 1.062,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1192,
+      "completion_tokens": 41,
+      "total_tokens": 1233,
+      "estimated_cost_usd": 0.000178
+    }
+  },
+  {
+    "paper_id": "C920",
+    "input": {
+      "claim": "CI -> IMPROVES COMMUNICATION INTER-TEAM",
+      "study_title": "Experienced benefits of continuous integration in industry software product development: A case study",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:06.599436",
+      "response_time_sec": 1.037,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1191,
+      "completion_tokens": 41,
+      "total_tokens": 1232,
+      "estimated_cost_usd": 0.000178
+    }
+  },
+  {
+    "paper_id": "C921",
+    "input": {
+      "claim": "CI -> IMPROVES PROJECT PREDICTABILITY",
+      "study_title": "Experienced benefits of continuous integration in industry software product development: A case study",
+      "kind": "SURVEY",
+      "variables": "AS AN EFFECT OF FACILITATING PARALLEL DEVELOPMENT IN THE SAME SOURCE CONTEXT AND LESS COMPILING AND TESTING LOCALLY BEFORE CHECKING IN"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 23,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:09.111448",
+      "response_time_sec": 1.011,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1223,
+      "completion_tokens": 43,
+      "total_tokens": 1266,
+      "estimated_cost_usd": 0.000183
+    }
+  },
+  {
+    "paper_id": "C922",
+    "input": {
+      "claim": "CI CONTRIBUTES   TO   INCREASED   DEVELOPER   PRODUCTIVITY (AS   AN  EFFECT  OF FACILITATING PARALLEL  DEVELOPMENT IN THE SAME  SOURCE   CONTEXT)",
+      "study_title": "Experienced benefits of continuous integration in industry software product development: A case study",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:11.800409",
+      "response_time_sec": 1.188,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1224,
+      "completion_tokens": 44,
+      "total_tokens": 1268,
+      "estimated_cost_usd": 0.000184
+    }
+  },
+  {
+    "paper_id": "C923",
+    "input": {
+      "claim": "CI IS CORRELATED TO THE PRESENCE OF TEST PRACTICE",
+      "study_title": "Experienced benefits of continuous integration in industry software product development: A case study",
+      "kind": "SURVEY",
+      "variables": "AGILE TESTING PRACTICES"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:14.539593",
+      "response_time_sec": 1.239,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1196,
+      "completion_tokens": 41,
+      "total_tokens": 1237,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C924",
+    "input": {
+      "claim": "CI HELPS TO CATCH PROBLEMS AS EARLY AS POSSIBLE",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": "AUTOMATION, HOWEVER, IS NOT ONLY RELATED TO AUTOMATED TESTING, AS ONE RESPONDENT HIGHLIGHTED, BUT CAN BE DESCRIBED IN TERMS OF “AUTOMATED CODE QUALITY ENFORCEMENT, AUTOMATED RELEASE CYCLES, AUTOMATED DEPLOYMENT”. GENERALLY SPEAKING, AUTOMATION IS AIMED AT “PERFORMING A WIDE RANGE OF MANUAL STEPS THAT A HUMAN WOULD NOT NORMALLY BE BOTHERED TO CHECK”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:17.131309",
+      "response_time_sec": 1.091,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH DEFECTS REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.75\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1308,
+      "completion_tokens": 41,
+      "total_tokens": 1349,
+      "estimated_cost_usd": 0.000195
+    }
+  },
+  {
+    "paper_id": "C925",
+    "input": {
+      "claim": "CI IMPROVES QUALITY",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": "ALTHOUGH MOST OF THE RESPONDENTS HAVE MENTIONED “SOFTWARE QUALITY” WITH NO ADDITIONAL DETAILS, SOME RESPONDENTS HAVE MENTIONED OTHER QUALITY ATTRIBUTES SUCH AS (1) INCREASED STABILITY, (2) QUALITY OF CODE AND TEST, AND (3) QUALITY OF DOCUMENTATION. ONE OF THE ANONYMOUS RESPONDENTS HAS DETAILED HOW CI CAN IMPROVE SOFTWARE QUALITY: “WHEN YOU USE CI, YOU HAVE A GOOD HEALTH CHECK IN YOUR CODE BASE, AND FROM TIME TO TIME YOU CAN KEEP LOOKING IF ANY OTHER DEPENDENCIES DIDN’T BREAK YOUR PACKAGE. IT IS A WARRANT OF QUALITY OF YOUR CODE”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:19.701557",
+      "response_time_sec": 1.07,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1348,
+      "completion_tokens": 41,
+      "total_tokens": 1389,
+      "estimated_cost_usd": 0.0002
+    }
+  },
+  {
+    "paper_id": "C926",
+    "input": {
+      "claim": "CI IMPROVES THE FAST DEVELOPMENT CYCLE",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": "ACCORDING TO ONE RESPONDENT, THIS HAPPENS BECAUSE “[ITS] EXTREMELY FAST DEVELOPMENT CYCLE [MADE IT] EASY TO TRY OUT STUFF & EASY TO ADD NEW TESTING (YOUDON’T NEED TO COORDINATE WITH OTHER PEOPLE AS MUCH, WHICH IS TIME-EXPENSIVE)”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:22.428399",
+      "response_time_sec": 1.226,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.75\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1269,
+      "completion_tokens": 44,
+      "total_tokens": 1313,
+      "estimated_cost_usd": 0.00019
+    }
+  },
+  {
+    "paper_id": "C927",
+    "input": {
+      "claim": "CI ENABLES CROSS-PLATFORM TESTING",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": "“COMPILING FOR MULTIPLE DIFFERENT TARGETS (X86,ARM,WINDOW,LINUX ETC)”. ANOTHER RESPONDENT COMPLEMENTED THAT “CROSS-PLATFORM TESTING ACTS AS A SORT OF DOCUMENTATION”, AND “[IT CAN BE CONFIGURED] WITH MODERATE EASE AND IN A FRACTION OF THE TIME”. SOME RESPONDENTS ALSO MENTIONED THAT “THIS [TASK] IS NOT FEASIBLE OR COST-EFFECTIVE TO DO MANUALLY”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 38,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:25.110200",
+      "response_time_sec": 1.181,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1308,
+      "completion_tokens": 41,
+      "total_tokens": 1349,
+      "estimated_cost_usd": 0.000195
+    }
+  },
+  {
+    "paper_id": "C928",
+    "input": {
+      "claim": "CONTINUOUS INTEGRATION GIVES MORE CONFIDENCE TO PERFORM REQUIRED CODE CHANGES",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": "AS ONE RESPONDENT DESCRIBED: “DEPENDS ON THE COVERAGE, BUT SOME SORT OF CONFIDENCE THAT INTRODUCED CHANGES DON’T BREAK THE CURRENT BEHAVIOR”. THE SAME RESPONDENT WENT FURTHER AND COMPLEMENTED THAT “I ASSUME THE MOSTCRITICAL PARTS OF THE SYSTEM HAVE BEEN COVERED BY TEST CASES”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 12,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:27.691175",
+      "response_time_sec": 1.08,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1288,
+      "completion_tokens": 41,
+      "total_tokens": 1329,
+      "estimated_cost_usd": 0.000192
+    }
+  },
+  {
+    "paper_id": "C930",
+    "input": {
+      "claim": "CI GENERATED TECHNICAL PROBLEMS IS PARTICULARLY CHALLENGING FOR ONBOARDING NEWCOMERS (SINCE THEY “DO NOT UNDERSTAND WHAT CI DOES AND WHAT IT DOESN’T”.)",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 26,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:30.252427",
+      "response_time_sec": 1.061,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH TECHNICAL CHALLENGES\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1226,
+      "completion_tokens": 39,
+      "total_tokens": 1265,
+      "estimated_cost_usd": 0.000183
+    }
+  },
+  {
+    "paper_id": "C931",
+    "input": {
+      "claim": "ANOTHER RECURRING PROBLEM OF CI IS THE FALSE SENSE OF CONFIDENCE",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI MAY GENERATE A FALSE SENSE OF CONFIDENCE",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 1.0
+    },
+    "ground_truth": {
+      "code": "CI MAY GENERATE A FALSE SENSE OF CONFIDENCE",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 11,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:33.067375",
+      "response_time_sec": 1.314,
+      "raw_response": "{\n  \"code\": \"CI MAY GENERATE A FALSE SENSE OF CONFIDENCE\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 1.00\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1201,
+      "completion_tokens": 40,
+      "total_tokens": 1241,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C932",
+    "input": {
+      "claim": "CONTINUOUS INTEGRATION TECHNIQUES REQUIRE DEVELOPERS A CERTAIN LEVEL OF DISCIPLINE",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH HUMAN CHALLENGES",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.65
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH HUMAN CHALLENGES",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 19,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:35.637198",
+      "response_time_sec": 1.069,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH HUMAN CHALLENGES\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.65\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1205,
+      "completion_tokens": 39,
+      "total_tokens": 1244,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C933",
+    "input": {
+      "claim": "ADDITIONAL EFFORT WAS ALSO EVIDENCED WHEN APPLY CI",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 14,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:38.241239",
+      "response_time_sec": 1.103,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1199,
+      "completion_tokens": 41,
+      "total_tokens": 1240,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C934",
+    "input": {
+      "claim": "CI IMPROVES AUTOMATION",
+      "study_title": "Inadequate testing, time pressure, and (over) confidence: a tale of continuous integration users",
+      "kind": "SURVEY",
+      "variables": "AUTOMATION, HOWEVER, IS NOT ONLY RELATED TO AUTOMATED TESTING, AS ONE RESPONDENT HIGHLIGHTED, BUT CAN BE DESCRIBED IN TERMS OF “AUTOMATED CODE QUALITY ENFORCEMENT, AUTOMATED RELEASE CYCLES, AUTOMATED DEPLOYMENT”. GENERALLY SPEAKING, AUTOMATION IS AIMED AT “PERFORMING A WIDE RANGE OF MANUAL STEPS THAT A HUMAN WOULD NOT NORMALLY BE BOTHERED TO CHECK”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 24,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:41.081957",
+      "response_time_sec": 1.34,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1301,
+      "completion_tokens": 43,
+      "total_tokens": 1344,
+      "estimated_cost_usd": 0.000194
+    }
+  },
+  {
+    "paper_id": "C936",
+    "input": {
+      "claim": "CI IMPROVES PRODUCTIVITY",
+      "study_title": "Increasing quality and managing complexity in neuroinformatics software development with continuous integration",
+      "kind": "MSR",
+      "variables": "CI-BASED WORKFLOW, DUE TO RAPID FEEDBACK ABOUT CODE INTEGRATION PROBLEMS AND TRACKING OF CODE HEALTH MEASURES, ENABLED SUBSTANTIAL INCREASES IN PRODUCTIVITY FOR A MAJOR NEUROINFORMATICS PROJECT AND ADDITIONAL BENEFITS FOR THREE FURTHER PROJECTS."
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:43.837831",
+      "response_time_sec": 1.255,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1258,
+      "completion_tokens": 44,
+      "total_tokens": 1302,
+      "estimated_cost_usd": 0.000188
+    }
+  },
+  {
+    "paper_id": "C937",
+    "input": {
+      "claim": "CI REDUCES THE TURNAROUND TIME FOR RESOLVING BROKEN BUILDS",
+      "study_title": "Increasing quality and managing complexity in neuroinformatics software development with continuous integration",
+      "kind": "MSR",
+      "variables": "TIME UNTIL THE FAILURE IS RESOLVED, HOURS; # OF COMMITS TO FIX THE BUILD"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 31,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:46.510117",
+      "response_time_sec": 1.172,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1219,
+      "completion_tokens": 47,
+      "total_tokens": 1266,
+      "estimated_cost_usd": 0.000184
+    }
+  },
+  {
+    "paper_id": "C938",
+    "input": {
+      "claim": "CI PROMOTES A REGULAR RELEASE CYCLE;THIS ALLOWS US TO GIVE INCREMENTAL VALUE TO THE BUSINESS FREQUENTLY AND PREDICTABLY.",
+      "study_title": "It's Not the Pants, it's the People in the Pants Learnings from the Gap Agile Transformation -- What Worked, How We Did it, and What Still Puzzles Us",
+      "kind": "ACTION RESEARCH",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:49.091278",
+      "response_time_sec": 1.081,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1237,
+      "completion_tokens": 42,
+      "total_tokens": 1279,
+      "estimated_cost_usd": 0.000185
+    }
+  },
+  {
+    "paper_id": "C939",
+    "input": {
+      "claim": "CI IMPROVES CODE QUALITY",
+      "study_title": "It's Not the Pants, it's the People in the Pants Learnings from the Gap Agile Transformation -- What Worked, How We Did it, and What Still Puzzles Us",
+      "kind": "ACTION RESEARCH",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:51.769428",
+      "response_time_sec": 1.178,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1208,
+      "completion_tokens": 41,
+      "total_tokens": 1249,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C940",
+    "input": {
+      "claim": "CI CAN HELP DETECT MERGING ISSUES EARLY AND EASILY",
+      "study_title": "Moving from Closed to Open Source: Observations from Six Transitioned Projects to GitHub",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:54.477085",
+      "response_time_sec": 1.207,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1196,
+      "completion_tokens": 46,
+      "total_tokens": 1242,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C941",
+    "input": {
+      "claim": "CI INCREASES DEVELOPER PRODUCTIVITY (MENTION CONTINUOUS INTEGRATION AND CONTINUOUS DEPLOYMENT AS MAJOR BUILDING BLOCKS OF AN EFFICIENT AUTOMATED LOOP COMPRISING DIFFERENT FULFILLMENT LEVELS)",
+      "study_title": "Practitioners' eye on continuous software engineering: An interview study",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:57.136989",
+      "response_time_sec": 1.159,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1234,
+      "completion_tokens": 44,
+      "total_tokens": 1278,
+      "estimated_cost_usd": 0.000185
+    }
+  },
+  {
+    "paper_id": "C943",
+    "input": {
+      "claim": "CORE DEVELOPERS IN TEAMS USING CI ARE ABLE TO DISCOVER SIGNIFICANTLY MORE BUGS THAN IN TEAMS NOT USING CI.",
+      "study_title": "Quality and productivity outcomes relating to continuous integration in GitHub",
+      "kind": "MSR",
+      "variables": "NUMBER OF BUG REPORTS = (I.E., ISSUES CLEARLY LABELED AS BUGS)"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 29,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:08:59.752129",
+      "response_time_sec": 1.114,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH DEFECTS REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1226,
+      "completion_tokens": 41,
+      "total_tokens": 1267,
+      "estimated_cost_usd": 0.000183
+    }
+  },
+  {
+    "paper_id": "C944",
+    "input": {
+      "claim": "ONLY 51.3% OF THE PROJECTS DELIVER MERGED PRS MORE QUICKLY AFTER THE ADOPTION OF CI",
+      "study_title": "Studying the impact of adopting continuous integration on the delivery time of pull requests",
+      "kind": "MSR",
+      "variables": "# OF SUBMITTED PR"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:02.473179",
+      "response_time_sec": 1.22,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1211,
+      "completion_tokens": 48,
+      "total_tokens": 1259,
+      "estimated_cost_usd": 0.000183
+    }
+  },
+  {
+    "paper_id": "C945",
+    "input": {
+      "claim": "IN 73% (46/63) OF THE PROJECTS, PRS ARE MERGED FASTER BEFORE ADOPTING CI",
+      "study_title": "Studying the impact of adopting continuous integration on the delivery time of pull requests",
+      "kind": "MSR",
+      "variables": "# OF SUBMITTED PR"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 33,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:05.260719",
+      "response_time_sec": 1.287,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1209,
+      "completion_tokens": 49,
+      "total_tokens": 1258,
+      "estimated_cost_usd": 0.000183
+    }
+  },
+  {
+    "paper_id": "C946",
+    "input": {
+      "claim": "SURPRISINGLY, IN 54% OF THE PROJECTS, PRS HAVE A LONGER LIFETIME AFTER ADOPTING CI",
+      "study_title": "Studying the impact of adopting continuous integration on the delivery time of pull requests",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 33,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:08.023494",
+      "response_time_sec": 1.262,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO NEGATIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1208,
+      "completion_tokens": 49,
+      "total_tokens": 1257,
+      "estimated_cost_usd": 0.000183
+    }
+  },
+  {
+    "paper_id": "C947",
+    "input": {
+      "claim": "71.3% (62/87) OF THE PROJECTS INCREASE PR SUBMISSIONS AFTER ADOPTING CI.",
+      "study_title": "Studying the impact of adopting continuous integration on the delivery time of pull requests",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:10.708568",
+      "response_time_sec": 1.184,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1203,
+      "completion_tokens": 48,
+      "total_tokens": 1251,
+      "estimated_cost_usd": 0.000182
+    }
+  },
+  {
+    "paper_id": "C948",
+    "input": {
+      "claim": "AFTER ADOPTING CI PROJECTS DELIVER 3.43 TIMES MORE PRS PER RELEASE THAN BEFORE CI",
+      "study_title": "Studying the impact of adopting continuous integration on the delivery time of pull requests",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:13.494083",
+      "response_time_sec": 1.285,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1203,
+      "completion_tokens": 48,
+      "total_tokens": 1251,
+      "estimated_cost_usd": 0.000182
+    }
+  },
+  {
+    "paper_id": "C949",
+    "input": {
+      "claim": "WE FIND THAT 75.9% (66/87) OF THE STUDIED PROJECTS TEND TO INCREASE THE NUMBER OF PR CONTRIBUTORS PER RELEASE AFTER ADOPTING CI.",
+      "study_title": "Studying the impact of adopting continuous integration on the delivery time of pull requests",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:16.450157",
+      "response_time_sec": 1.455,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1218,
+      "completion_tokens": 48,
+      "total_tokens": 1266,
+      "estimated_cost_usd": 0.000184
+    }
+  },
+  {
+    "paper_id": "C950",
+    "input": {
+      "claim": "CI IS RELATED TO SMALL MERGE COMMITS",
+      "study_title": "The impact of continuous integration on other software development practices: a large-scale empirical study",
+      "kind": "MSR+SURVEY",
+      "variables": "CODE CHURN"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 41,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:19.262341",
+      "response_time_sec": 1.312,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1194,
+      "completion_tokens": 41,
+      "total_tokens": 1235,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C951",
+    "input": {
+      "claim": "CI IS RELATED TO AN INCREASE OF MERGE COMMITS",
+      "study_title": "The impact of continuous integration on other software development practices: a large-scale empirical study",
+      "kind": "MSR+SURVEY",
+      "variables": "CODE CHURN"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 41,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:21.859473",
+      "response_time_sec": 1.097,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A COMMIT PATTERN CHANGE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1197,
+      "completion_tokens": 41,
+      "total_tokens": 1238,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C952",
+    "input": {
+      "claim": "MORE PRS ARE BEING CLOSED AFTER ADOPTING CI",
+      "study_title": "The impact of continuous integration on other software development practices: a large-scale empirical study",
+      "kind": "MSR+SURVEY",
+      "variables": "# OF PR CLOSED"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:24.614762",
+      "response_time_sec": 1.255,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1202,
+      "completion_tokens": 48,
+      "total_tokens": 1250,
+      "estimated_cost_usd": 0.000182
+    }
+  },
+  {
+    "paper_id": "C953",
+    "input": {
+      "claim": "CI IS RELATED TO AN INCREASING TREND IN THE NUMBER OF ISSUES CLOSED PER TIME PERIOD,",
+      "study_title": "The impact of continuous integration on other software development practices: a large-scale empirical study",
+      "kind": "MSR+SURVEY",
+      "variables": "# OF CLOSED ISSUES"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH ISSUES REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH ISSUES REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 30,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:27.245007",
+      "response_time_sec": 1.129,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH ISSUES REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1212,
+      "completion_tokens": 40,
+      "total_tokens": 1252,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C954",
+    "input": {
+      "claim": "THE AMOUNT (AND POTENTIALLY THE QUALITY) OF AUTOMATED TESTS SEEMS TO INCREASE",
+      "study_title": "The impact of continuous integration on other software development practices: a large-scale empirical study",
+      "kind": "MSR+SURVEY",
+      "variables": "# OF UNIT TESTS PER BUILD"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:29.804454",
+      "response_time_sec": 1.059,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1214,
+      "completion_tokens": 41,
+      "total_tokens": 1255,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C955",
+    "input": {
+      "claim": "MAGNETISM AND STICKINESS VALUES TEND TO DROP AFTER TRAVIS CI HAS BEEN ADOPTED",
+      "study_title": "The impact of the adoption of continuous integration on developer attraction and retention",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN MAGNETISM AND RETENTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN MAGNETISM AND RETENTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 20,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:32.453042",
+      "response_time_sec": 1.148,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASE IN MAGNETISM AND RETENTION\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1200,
+      "completion_tokens": 46,
+      "total_tokens": 1246,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C956",
+    "input": {
+      "claim": "THE CI ADOPTION LEADS TO A WORSENING IN THE PERCEIVED TEAM PRODUCTIVITY.",
+      "study_title": "The links between agile practices, interpersonal conflict, and perceived productivity",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASED PERCEPTION OF PRODUCTIVITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASED PERCEPTION OF PRODUCTIVITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 16,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:35.083107",
+      "response_time_sec": 1.129,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASED PERCEPTION OF PRODUCTIVITY\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1200,
+      "completion_tokens": 45,
+      "total_tokens": 1245,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C957",
+    "input": {
+      "claim": "THE COGNITIVELY DIFFICULT TASK OF INCONSISTENCY PREDICTION IS ABANDONED",
+      "study_title": "The Tarpit – A general theory of software engineering",
+      "kind": "OTHER",
+      "variables": "WITH NO PREDICTION OF INCONSISTENCY, THERE IS NO NEED TO KEEP COMMUNICATION ABOUT THESE DECISIONS."
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH HUMAN CHALLENGES",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.45
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A WORKLOAD REDUCTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 15,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:37.731594",
+      "response_time_sec": 1.148,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH HUMAN CHALLENGES\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.45\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1224,
+      "completion_tokens": 39,
+      "total_tokens": 1263,
+      "estimated_cost_usd": 0.000182
+    }
+  },
+  {
+    "paper_id": "C958",
+    "input": {
+      "claim": "THE COMMUNICATION REQUIRED BY PROACTIVE INCONSISTENCY MITIGATION IS AVOIDED",
+      "study_title": "The Tarpit – A general theory of software engineering",
+      "kind": "OTHER",
+      "variables": "WITH NO PREDICTION OF INCONSISTENCY, THERE IS NO NEED TO KEEP COMMUNICATION ABOUT THESE DECISIONS."
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A FEED BACK FREQUENCY INCREASE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.45
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:40.335614",
+      "response_time_sec": 1.103,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A FEED BACK FREQUENCY INCREASE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.45\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1220,
+      "completion_tokens": 43,
+      "total_tokens": 1263,
+      "estimated_cost_usd": 0.000183
+    }
+  },
+  {
+    "paper_id": "C959",
+    "input": {
+      "claim": "CI FORCES MORE TEST EFFORT",
+      "study_title": "The Tarpit – A general theory of software engineering",
+      "kind": "OTHER",
+      "variables": "IN ORDER TO AVOID THE INCONSISTENCY PREDICTION, THE TEAM IS FORCED TO DO AUTOMATED TESTS."
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:43.012843",
+      "response_time_sec": 1.177,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1208,
+      "completion_tokens": 41,
+      "total_tokens": 1249,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C960",
+    "input": {
+      "claim": "THE COGNITIVE TRACTABILITY OF THE PROGRAMMING TASK IS INCREASED BY THE SINGLE-PROGRAMMER ASSUMPTION.",
+      "study_title": "The Tarpit – A general theory of software engineering",
+      "kind": "OTHER",
+      "variables": "IT MEANS THAT DEVELOPERS FEEL MORE CONFIDENT TO WORK AS THEY ARE THE SINGLE DEVELOPER ON THE PROJECT. MEANING THAT HE CAN WORK WITHOUT TOO MANY WORRIES WITH OTHER WORKERS."
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.45
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 12,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:45.748717",
+      "response_time_sec": 1.235,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.45\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1246,
+      "completion_tokens": 41,
+      "total_tokens": 1287,
+      "estimated_cost_usd": 0.000186
+    }
+  },
+  {
+    "paper_id": "C961",
+    "input": {
+      "claim": "CI HELPS CATCH BUGS EARLIER",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "DEVELOPERS CONCERNS ABOUT THE BUILD BREAKAGE"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 31,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:48.301292",
+      "response_time_sec": 1.052,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH DEFECTS REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1196,
+      "completion_tokens": 41,
+      "total_tokens": 1237,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C962",
+    "input": {
+      "claim": "CI -> LESS WORRY ABOUT BREAKING THE BUILD",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "DEVELOPERS CONCERNS ABOUT THE BUILD BREAKAGE"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 12,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:51.164780",
+      "response_time_sec": 1.363,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1196,
+      "completion_tokens": 41,
+      "total_tokens": 1237,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C964",
+    "input": {
+      "claim": "CI HELPS PROJECTS DEPLOY MORE OFTEN",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "DEVELOPERS TOLD US THAT CI ENABLED THEM TO HAVE SHORTER DEVELOPMENT CYCLES THAN THEY OTHERWISE WOULD HAVE"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:53.773275",
+      "response_time_sec": 1.108,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1216,
+      "completion_tokens": 42,
+      "total_tokens": 1258,
+      "estimated_cost_usd": 0.000182
+    }
+  },
+  {
+    "paper_id": "C965",
+    "input": {
+      "claim": "CI ALLOWS FASTER ITERATIONS",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "ALLOWS THEM TO QUICKLY IDENTIFY WHEN THE CURRENT CHANGESET WILL BREAK THE BUILD"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:56.465654",
+      "response_time_sec": 1.192,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1205,
+      "completion_tokens": 44,
+      "total_tokens": 1249,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C966",
+    "input": {
+      "claim": "CI MAKES INTEGRATION EASIER.",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "AVOID PAINFUL INTEGRATIONS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 34,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:09:59.120516",
+      "response_time_sec": 1.154,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1193,
+      "completion_tokens": 46,
+      "total_tokens": 1239,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C967",
+    "input": {
+      "claim": "CI ENFORCES A SPECIFIC WORKFLOW",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "E.G., ENSURING ALL TESTS ARE RUN BEFORE ACCEPTING CHANGES"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.45
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 24,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:01.710317",
+      "response_time_sec": 1.089,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.45\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1201,
+      "completion_tokens": 38,
+      "total_tokens": 1239,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C968",
+    "input": {
+      "claim": "TEST ACROSS ALL PLATFORMS",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "CI ALLOWS A SYSTEM TO BE TESTED ON ALL MAJOR PLATFORMS (WINDOWS, LINUX, AND OS X)"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 38,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:04.302191",
+      "response_time_sec": 1.091,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1211,
+      "completion_tokens": 41,
+      "total_tokens": 1252,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C969",
+    "input": {
+      "claim": "PROJECTS WITH CI GIVE MORE VALUE TO AUTOMATED TESTS",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "BEFORE USING CI, ALTHOUGH DEVELOPERS WOULD WRITE UNIT TESTS, THEY OFTEN WOULD NOT BE RUN, AND DEVELOPERS DID NOT FEEL THAT WRITING TESTS WAS WORTH THE EFFORT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:06.933733",
+      "response_time_sec": 1.131,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1236,
+      "completion_tokens": 41,
+      "total_tokens": 1277,
+      "estimated_cost_usd": 0.000185
+    }
+  },
+  {
+    "paper_id": "C970",
+    "input": {
+      "claim": "PROJECTS WITH CI HAVE HIGHER QUALITY TESTS",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "E PROJECTS THAT USE CI RUN THEIR AUTOMATED TESTS MORE OFTEN, AND THE RESULTS ARE VISIBLE TO THE ENTIRE TEAM,"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:09.452260",
+      "response_time_sec": 1.018,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1217,
+      "completion_tokens": 41,
+      "total_tokens": 1258,
+      "estimated_cost_usd": 0.000182
+    }
+  },
+  {
+    "paper_id": "C971",
+    "input": {
+      "claim": "PROJECTS THAT USE CI HAVE HIGHER CODE QUALITY",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "USING CI LEADS TO HIGHER CODE QUALITY"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:12.013594",
+      "response_time_sec": 1.061,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1196,
+      "completion_tokens": 41,
+      "total_tokens": 1237,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C972",
+    "input": {
+      "claim": "PROJECTS WITH CI ARE MORE PRODUCTIVE",
+      "study_title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "kind": "SURVEY",
+      "variables": "CI ALLOWS DEVELOPERS TO FOCUS MORE ON BEING PRODUCTIVE"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:14.698746",
+      "response_time_sec": 1.184,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1198,
+      "completion_tokens": 44,
+      "total_tokens": 1242,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C973",
+    "input": {
+      "claim": "CONTINUOUS INTEGRATION IS NOT APPLIED DURING CRITICAL PERIODS FOR SOME DOMAIN (FINANCIAL AND E-COMMERCE)",
+      "study_title": "Understanding similarities and differences in software development practices across domains",
+      "kind": "SURVEY",
+      "variables": "SURVEY ANALYSIS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.45
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH ORGANIZATIONAL CHALLENGES",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 18,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:17.167573",
+      "response_time_sec": 0.968,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH TECHNICAL CHALLENGES\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.45\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1209,
+      "completion_tokens": 39,
+      "total_tokens": 1248,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C974",
+    "input": {
+      "claim": "CI HELPS TO CATCH BUGS EARLY",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "NOT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 31,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:19.793454",
+      "response_time_sec": 1.125,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH DEFECTS REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1190,
+      "completion_tokens": 41,
+      "total_tokens": 1231,
+      "estimated_cost_usd": 0.000178
+    }
+  },
+  {
+    "paper_id": "C975",
+    "input": {
+      "claim": "MAKES THE TEAM LESS WORRIED ABOUT BREAKING THE BUILD",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "NOT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 12,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:22.360700",
+      "response_time_sec": 1.067,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1194,
+      "completion_tokens": 41,
+      "total_tokens": 1235,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C976",
+    "input": {
+      "claim": "PROJECTS THAT USE CI RELEASE MORE THAN TWICE AS OFTEN AS THOSE THAT DO NOT USE CI.",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "MSR",
+      "variables": "NUMBER RELEASES PER MONTH"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:25.053385",
+      "response_time_sec": 1.192,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1206,
+      "completion_tokens": 42,
+      "total_tokens": 1248,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C977",
+    "input": {
+      "claim": "CI BUILD STATUS CAN MAKE INTEGRATING PULL REQUESTS FASTER. WHEN USING CI, THE MEDIAN PULL REQUEST IS ACCEPTED 1.6 HOURS SOONER.",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "MSR",
+      "variables": "THE MEDIAN TIME TO ACCEPT THE PULL REQUESTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:27.713005",
+      "response_time_sec": 1.159,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1229,
+      "completion_tokens": 48,
+      "total_tokens": 1277,
+      "estimated_cost_usd": 0.000186
+    }
+  },
+  {
+    "paper_id": "C978",
+    "input": {
+      "claim": "CI ALLOWS RUNNING THE TESTS IN THE CLOUD, FREEING UP PERSONAL MACHINES",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "NOT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:30.334120",
+      "response_time_sec": 1.119,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1201,
+      "completion_tokens": 43,
+      "total_tokens": 1244,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C979",
+    "input": {
+      "claim": "CI HELPS DEPLOY MORE OFTEN",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "NOT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:33.028773",
+      "response_time_sec": 1.194,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1188,
+      "completion_tokens": 42,
+      "total_tokens": 1230,
+      "estimated_cost_usd": 0.000178
+    }
+  },
+  {
+    "paper_id": "C980",
+    "input": {
+      "claim": "CI MAKES INTEGRATION EASIER",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "NOT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.9
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 34,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:35.954813",
+      "response_time_sec": 1.425,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.90\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1188,
+      "completion_tokens": 46,
+      "total_tokens": 1234,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C981",
+    "input": {
+      "claim": "CI HELP TO TEST IN A REAL-WORLD ENVIRONMENT",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "NOT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 38,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:38.729586",
+      "response_time_sec": 1.274,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1191,
+      "completion_tokens": 41,
+      "total_tokens": 1232,
+      "estimated_cost_usd": 0.000178
+    }
+  },
+  {
+    "paper_id": "C982",
+    "input": {
+      "claim": "CI CAUSE LESS TIME DEBUGGING",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "SURVEY",
+      "variables": "N OT EXPLICIT"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:41.355504",
+      "response_time_sec": 1.125,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH DEFECTS REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1188,
+      "completion_tokens": 41,
+      "total_tokens": 1229,
+      "estimated_cost_usd": 0.000178
+    }
+  },
+  {
+    "paper_id": "C983",
+    "input": {
+      "claim": "HELPS TO REJECT PROBLEMATIC PR",
+      "study_title": "Usage, costs, and benefits of continuous integration in open-source projects",
+      "kind": "MSR",
+      "variables": "% PULL REQUESTS MERGED WITH CI INDICATOR"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:44.028329",
+      "response_time_sec": 1.172,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1198,
+      "completion_tokens": 48,
+      "total_tokens": 1246,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C984",
+    "input": {
+      "claim": "MORE QUICK PATCH AND RELEASING DELIVERIES",
+      "study_title": "Using continuous integration and automated test techniques for a robust C4ISR system",
+      "kind": "CASE STUDIES",
+      "variables": "LINES AND FILES GROWTH; # OF REVISIONS AND COMMITS PER DAY;"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 21,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:46.698382",
+      "response_time_sec": 1.169,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1210,
+      "completion_tokens": 42,
+      "total_tokens": 1252,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C985",
+    "input": {
+      "claim": "DECREASES BUILD BREAKAGE",
+      "study_title": "Using continuous integration and automated test techniques for a robust C4ISR system",
+      "kind": "CASE STUDIES",
+      "variables": "# OF BROKEN BUILDS BEFORE/AFTER CI AND TESTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "code_id": 39,
+      "theme_id": 1
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:49.255141",
+      "response_time_sec": 1.056,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH BUILD HEALTH\",\n  \"theme\": \"BUILD PATTERNS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1199,
+      "completion_tokens": 36,
+      "total_tokens": 1235,
+      "estimated_cost_usd": 0.000178
+    }
+  },
+  {
+    "paper_id": "C986",
+    "input": {
+      "claim": "SHORTEN THE BUILD TIME",
+      "study_title": "Using continuous integration and automated test techniques for a robust C4ISR system",
+      "kind": "CASE STUDIES",
+      "variables": "BUILD TIME"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A DECREASING IN BUILD TIME",
+      "theme": "BUILD PATTERNS",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASING IN BUILD TIME",
+      "theme": "BUILD PATTERNS",
+      "code_id": 40,
+      "theme_id": 1
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:51.952558",
+      "response_time_sec": 1.197,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A DECREASING IN BUILD TIME\",\n  \"theme\": \"BUILD PATTERNS\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1185,
+      "completion_tokens": 42,
+      "total_tokens": 1227,
+      "estimated_cost_usd": 0.000178
+    }
+  },
+  {
+    "paper_id": "C987",
+    "input": {
+      "claim": "SHORTEN THE INTEGRATION TIME",
+      "study_title": "Using continuous integration and automated test techniques for a robust C4ISR system",
+      "kind": "CASE STUDIES",
+      "variables": "INTEGRATION TIME"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A POSITIVE IMPACT ON INTEGRATION PRACTICE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 34,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:54.640288",
+      "response_time_sec": 1.187,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1189,
+      "completion_tokens": 42,
+      "total_tokens": 1231,
+      "estimated_cost_usd": 0.000178
+    }
+  },
+  {
+    "paper_id": "C988",
+    "input": {
+      "claim": "INCREASES THE NUMBER OF AUTOMATED TESTS",
+      "study_title": "Using continuous integration and automated test techniques for a robust C4ISR system",
+      "kind": "CASE STUDIES",
+      "variables": "# OF TESTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:10:57.313253",
+      "response_time_sec": 1.172,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1192,
+      "completion_tokens": 41,
+      "total_tokens": 1233,
+      "estimated_cost_usd": 0.000178
+    }
+  },
+  {
+    "paper_id": "C990",
+    "input": {
+      "claim": "CI IS A DOMINANT FACTOR OF PULL REQUEST LATENCY.",
+      "study_title": "Wait for it: determinants of pull request evaluation latency on GitHub",
+      "kind": "MSR",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE",
+      "theme": "INTEGRATION PATTERNS",
+      "code_id": 32,
+      "theme_id": 3
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:00.070868",
+      "response_time_sec": 1.257,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON PULL REQUESTS LIFE-CYCLE\",\n  \"theme\": \"INTEGRATION PATTERNS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1190,
+      "completion_tokens": 48,
+      "total_tokens": 1238,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C992",
+    "input": {
+      "claim": "CI  SPEED UP DEVELOPMENT PRACTICE",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "ENSURING QUALITY OF RELEASES; ENSURING BOTH, MINE AND OTHER PEOPLE CHANGES, DO NOT BREAK ANYTHING; HELP MAINTAIN QUALITY"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 13,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:02.693541",
+      "response_time_sec": 1.122,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1220,
+      "completion_tokens": 44,
+      "total_tokens": 1264,
+      "estimated_cost_usd": 0.000183
+    }
+  },
+  {
+    "paper_id": "C993",
+    "input": {
+      "claim": "IMPROVE SOFTWARE QUALITY",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "ENSURING QUALITY OF RELEASES; ENSURING BOTH, MINE AND OTHER PEOPLE CHANGES, DO NOT BREAK ANYTHING; HELP MAINTAIN QUALITY"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.45
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:05.463997",
+      "response_time_sec": 1.27,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO POSITIVE IMPACTS ON RELEASE CYCLE\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.45\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1218,
+      "completion_tokens": 42,
+      "total_tokens": 1260,
+      "estimated_cost_usd": 0.000182
+    }
+  },
+  {
+    "paper_id": "C994",
+    "input": {
+      "claim": "CI SUPPORTS THE TEAM TO CATCH PROBLEMS AS EARLY AS POSSIBLE.",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "MUCH EASIER REGRESSION TESTING IN COMPLEX PROJECTS; PREVENT TO RELEASE A BUG SOFTWARE INTO PRODUCTION ENVIRONMENT;"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 31,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:08.198745",
+      "response_time_sec": 1.234,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH DEFECTS REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1226,
+      "completion_tokens": 41,
+      "total_tokens": 1267,
+      "estimated_cost_usd": 0.000183
+    }
+  },
+  {
+    "paper_id": "C995",
+    "input": {
+      "claim": "ENFORCE AUTOMATED SOFTWARE TESTING",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "# OF PROJECTS WITH TESTS;  'MAKE SURE TESTS ARE ALWAYS RUN, SINCEHUMANS CAN BE INCONSISTENT ON THAT';"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO POSITIVE IMPACTS ON TEST PRACTICE",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 35,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:10.813751",
+      "response_time_sec": 1.114,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1220,
+      "completion_tokens": 43,
+      "total_tokens": 1263,
+      "estimated_cost_usd": 0.000183
+    }
+  },
+  {
+    "paper_id": "C996",
+    "input": {
+      "claim": "ENABLE  CROSS-PLATFORM TESTING",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "“MOSTLY TO TEST SOFTWARE ON LINUX, TO WHICH I RARELY HAVE ACCESS.”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 38,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:13.405486",
+      "response_time_sec": 1.091,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED TO MULTI-ENVIRONMENT TESTS\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1207,
+      "completion_tokens": 41,
+      "total_tokens": 1248,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C998",
+    "input": {
+      "claim": "IMPROVE COMMUNICATION",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "“[IMPROVING] COOPERATION WITH OTHER ENGINEERS.”"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:15.966148",
+      "response_time_sec": 1.06,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1194,
+      "completion_tokens": 41,
+      "total_tokens": 1235,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C999",
+    "input": {
+      "claim": "CI REDUCES MANUAL WORK",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.75
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 24,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:18.532114",
+      "response_time_sec": 1.065,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO PRODUCTIVITY AND EFFICIENCY INCREASING\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.75\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1185,
+      "completion_tokens": 44,
+      "total_tokens": 1229,
+      "estimated_cost_usd": 0.000178
+    }
+  },
+  {
+    "paper_id": "C1000",
+    "input": {
+      "claim": "CI IMPROVES THE DEVELOPER'S CONFIDENCE TO PERFORM THE REQUIRED CODE CHANGES.",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 12,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:21.204145",
+      "response_time_sec": 1.171,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH CONFIDENCE IMPROVEMENT\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1199,
+      "completion_tokens": 41,
+      "total_tokens": 1240,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C1001",
+    "input": {
+      "claim": "CI IS ASSOCIATED TO A FALSE SENSE OF CONFIDENCE (AS A SITUATION WHERE DEVELOPERS BLINDLY TRUST THE TESTS).",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI MAY GENERATE A FALSE SENSE OF CONFIDENCE",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 1.0
+    },
+    "ground_truth": {
+      "code": "CI MAY GENERATE A FALSE SENSE OF CONFIDENCE",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 11,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:23.828272",
+      "response_time_sec": 1.123,
+      "raw_response": "{\n  \"code\": \"CI MAY GENERATE A FALSE SENSE OF CONFIDENCE\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 1.00\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1211,
+      "completion_tokens": 40,
+      "total_tokens": 1251,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C1002",
+    "input": {
+      "claim": "CI REQUIRES ADDITIONAL EFFORT",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": "(EG, “NEED MORE PEOPLE SHARING/DOCUMENTING AND HELPING RESOLVE PROBLEMS”, REQUIRED TO, FOR INSTANCE, “MAKING SURE BUILDS PASS .”)"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 14,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:26.369201",
+      "response_time_sec": 1.04,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1228,
+      "completion_tokens": 41,
+      "total_tokens": 1269,
+      "estimated_cost_usd": 0.000183
+    }
+  },
+  {
+    "paper_id": "C1003",
+    "input": {
+      "claim": "CI IMPLY MONETARY COSTS",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH TECHNICAL CHALLENGES",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.45
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH ADDING EXTRA COMPLEXITY",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 14,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:29.232780",
+      "response_time_sec": 1.363,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH TECHNICAL CHALLENGES\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.45\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1186,
+      "completion_tokens": 39,
+      "total_tokens": 1225,
+      "estimated_cost_usd": 0.000177
+    }
+  },
+  {
+    "paper_id": "C1004",
+    "input": {
+      "claim": "CI MAY BE CHALLENGING BY FLAKY TESTS (EG, “TESTS CAN SOMETIMES BE FLAKY, WHICH IS FRUSTRATING ”)",
+      "study_title": "Work practices and challenges in continuous integration: A survey with Travis CI users",
+      "kind": "SURVEY",
+      "variables": ""
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH BUILD HEALTH",
+      "theme": "BUILD PATTERNS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI MAY GENERATE A FALSE SENSE OF CONFIDENCE",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 11,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:31.834158",
+      "response_time_sec": 1.101,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH BUILD HEALTH\",\n  \"theme\": \"BUILD PATTERNS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1215,
+      "completion_tokens": 36,
+      "total_tokens": 1251,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C1005",
+    "input": {
+      "claim": "CD DECREASES THE DEFECT REPORT",
+      "study_title": "Continuous Delivery? Easy! Just Change Everything (Well, Maybe It Is Not That Easy)",
+      "kind": "ACTION RESEARCH",
+      "variables": "DEFECT REPORTS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH ISSUES REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH DEFECTS REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 29,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:34.416474",
+      "response_time_sec": 1.082,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH ISSUES REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1190,
+      "completion_tokens": 40,
+      "total_tokens": 1230,
+      "estimated_cost_usd": 0.000178
+    }
+  },
+  {
+    "paper_id": "C1007",
+    "input": {
+      "claim": "CI BROUGHT INCREASED VISIBILITY ENABLING GREATER COMMUNICATION AMONG THE RELEVANT STAKEHOLDERS.",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:36.950803",
+      "response_time_sec": 1.034,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1219,
+      "completion_tokens": 41,
+      "total_tokens": 1260,
+      "estimated_cost_usd": 0.000182
+    }
+  },
+  {
+    "paper_id": "C1008",
+    "input": {
+      "claim": "CI MAKES CAUGHT ISSUES EARLIER EVEN IN UNIT AND CSCI LEVEL TESTS",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH ISSUES REDUCTION",
+      "theme": "ISSUES AND DEFECTS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A DECREASE IN TIME TO LEAD DEFECTS",
+      "theme": "ISSUES AND DEFECTS",
+      "code_id": 31,
+      "theme_id": 4
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:39.680046",
+      "response_time_sec": 1.229,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH ISSUES REDUCTION\",\n  \"theme\": \"ISSUES AND DEFECTS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1210,
+      "completion_tokens": 40,
+      "total_tokens": 1250,
+      "estimated_cost_usd": 0.000181
+    }
+  },
+  {
+    "paper_id": "C1010",
+    "input": {
+      "claim": "CI BUILT A SOLID FOUNDATION FOR QUANTITATIVE EVALUATION OF SOFTWARE PROGRESS",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.65
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 23,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:42.205997",
+      "response_time_sec": 1.025,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.65\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1212,
+      "completion_tokens": 38,
+      "total_tokens": 1250,
+      "estimated_cost_usd": 0.00018
+    }
+  },
+  {
+    "paper_id": "C1012",
+    "input": {
+      "claim": "CI PROVIDED DETAILED INSIGHT FROM MANAGEMENT PERSPECTIVE",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.45
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS RELIABILITY",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 23,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:44.828028",
+      "response_time_sec": 1.121,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH SOFTWARE DEVELOPMENT BENEFITS\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.45\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1202,
+      "completion_tokens": 38,
+      "total_tokens": 1240,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C1013",
+    "input": {
+      "claim": "CI INCREASED SOFTWARE QUALITY",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT",
+      "theme": "QUALITY ASSURANCE",
+      "code_id": 36,
+      "theme_id": 2
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:47.432700",
+      "response_time_sec": 1.104,
+      "raw_response": "{\n  \"code\": \"CI IS RELATED TO AN INCREASE QUALITY ASSESSMENT\",\n  \"theme\": \"QUALITY ASSURANCE\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1196,
+      "completion_tokens": 41,
+      "total_tokens": 1237,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C1014",
+    "input": {
+      "claim": "CI DECREASED TEAM WORKLOAD FOR PAPERWORK",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH A WORKLOAD REDUCTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "confidence": 0.95
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH A WORKLOAD REDUCTION",
+      "theme": "DEVELOPMENT ACTIVITIES",
+      "code_id": 15,
+      "theme_id": 5
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:50.024543",
+      "response_time_sec": 1.09,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH A WORKLOAD REDUCTION\",\n  \"theme\": \"DEVELOPMENT ACTIVITIES\",\n  \"confidence\": 0.95\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1201,
+      "completion_tokens": 39,
+      "total_tokens": 1240,
+      "estimated_cost_usd": 0.000179
+    }
+  },
+  {
+    "paper_id": "C1015",
+    "input": {
+      "claim": "CI BASED PROCESS AUTOMATION LETS THE TEST AND QA ENGINEERS TO BE INVOLVED IN THE DEVELOPMENT, CONTINUOUSLY",
+      "study_title": "Software Quality Improvement Practices in Continuous Integration",
+      "kind": "CASE STUDIES",
+      "variables": "DD = DEFECT DENSITY\nDDE = DEFECT DETECTION EFFECTIVENESS"
+    },
+    "prompt_info": {
+      "level": "L5",
+      "prompt_file": "prompt_L5.txt",
+      "prompt_version": "v4.0"
+    },
+    "model_info": {
+      "model_name": "deepseek-chat",
+      "model_short": "deepseek",
+      "temperature": 0.0,
+      "run_id": 9
+    },
+    "prediction": {
+      "code": "CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION",
+      "theme": "SOFTWARE PROCESS",
+      "confidence": 0.85
+    },
+    "ground_truth": {
+      "code": "CI IS ASSOCIATED WITH AN INCREASE IN COOPERATION",
+      "theme": "SOFTWARE PROCESS",
+      "code_id": 22,
+      "theme_id": 6
+    },
+    "meta": {
+      "timestamp": "2026-04-28T01:11:52.741020",
+      "response_time_sec": 1.216,
+      "raw_response": "{\n  \"code\": \"CI IS ASSOCIATED WITH AN IMPROVEMENT IN PROCESS AUTOMATION\",\n  \"theme\": \"SOFTWARE PROCESS\",\n  \"confidence\": 0.85\n}",
+      "parse_success": true,
+      "retry_count": 0,
+      "error": "",
+      "prompt_tokens": 1217,
+      "completion_tokens": 43,
+      "total_tokens": 1260,
+      "estimated_cost_usd": 0.000182
+    }
+  }
+]

@@ -1,0 +1,4 @@
+model,model_short,mean_f1_macro,best_level,best_f1_macro,mean_kappa_L5,kappa_interp_L5,stability_sd,total_cost_usd,cost_per_correct,rank_f1,rank_stability,rank_cost,rank_overall
+DeepSeek Chat,deepseek,0.759,L3,0.7678,0.7488,Substantial,0.0009,1.01049,0.000234,2,1,1,1.33
+Claude Haiku 4.5,claude,0.7927,L1,0.851,0.7892,Substantial,0.0128,6.52864,0.001435,1,2,3,2.0
+GPT-4o Mini,openai,0.5764,L1,0.597,0.6775,Substantial,0.0211,1.10537,0.000344,3,3,2,2.67

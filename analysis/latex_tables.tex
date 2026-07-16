@@ -1,0 +1,68 @@
+% ══════════════════════════════════════════
+% SBES 2026 — Auto-generated LaTeX Tables
+% Run: python 06_analyze_results.py
+% ══════════════════════════════════════════
+
+% Table 1: F1-Macro (primary metric)
+\begin{table}[t]
+\centering
+\caption{F1-Macro scores per model and evidence level (mean across runs). Bold = best per row.}
+\label{tab:f1macro}
+\begin{tabular}{lccccc}
+\toprule
+Model & L1 & L2 & L3 & L4 & L5 \\
+\midrule
+Claude Haiku 4.5 & \textbf{0.851} & 0.791 & 0.799 & 0.781 & 0.742 \\
+DeepSeek Chat & \textbf{0.768} & 0.762 & \textbf{0.768} & 0.745 & 0.752 \\
+GPT-4o Mini & \textbf{0.597} & 0.594 & 0.574 & 0.570 & 0.547 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% Table 2: Cohen's Kappa (model vs gold)
+\begin{table}[t]
+\centering
+\caption{Cohen's $\kappa$ (model vs. gold standard) per level. Interpretation: $<$0.40 Fair, 0.40--0.60 Moderate, $>$0.60 Substantial.}
+\label{tab:kappa}
+\begin{tabular}{lccccc}
+\toprule
+Model & L1 & L2 & L3 & L4 & L5 \\
+\midrule
+Claude Haiku 4.5 & \textbf{0.827} & 0.802 & 0.791 & 0.791 & 0.789 \\
+DeepSeek Chat & \textbf{0.768} & 0.759 & 0.761 & 0.731 & 0.749 \\
+GPT-4o Mini & 0.722 & \textbf{0.749} & 0.733 & 0.693 & 0.677 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% Table 3: Context Gain L1→L5
+\begin{table}[t]
+\centering
+\caption{Absolute and relative F1-Macro gain from L1 to L5.}
+\label{tab:gain}
+\begin{tabular}{lccccc}
+\toprule
+Model & L1 & L5 & $\Delta$F1 & $\Delta$\% & Best Level \\
+\midrule
+Claude Haiku 4.5 & 0.851 & 0.742 & -0.109 & -12.8\% & L1 \\
+DeepSeek Chat & 0.767 & 0.752 & -0.015 & -2.0\% & L3 \\
+GPT-4o Mini & 0.597 & 0.547 & -0.050 & -8.3\% & L1 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% Table 4: Model Rank Summary
+\begin{table}[t]
+\centering
+\caption{Model ranking summary across F1-Macro, stability, and cost. Rank 1 = best. Overall rank = mean of three individual ranks.}
+\label{tab:ranks}
+\begin{tabular}{lcccccc}
+\toprule
+Model & Mean F1 & Best Level & Stability SD & Total Cost & Cost/Correct & Overall Rank \\
+\midrule
+DeepSeek Chat & 0.759 & L3 & 0.0009 & \$1.0105 & \$0.00023 & 1.33 \\
+Claude Haiku 4.5 & 0.793 & L1 & 0.0128 & \$6.5286 & \$0.00144 & 2.0 \\
+GPT-4o Mini & 0.576 & L1 & 0.0211 & \$1.1054 & \$0.00034 & 2.67 \\
+\bottomrule
+\end{tabular}
+\end{table}
